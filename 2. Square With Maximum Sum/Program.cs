@@ -39,8 +39,7 @@ namespace _2.Square_With_Maximum_Sum
                         rowIndex = rows;
                         columnIndex = columns;
 
-                    }
-                    
+                    }                    
                 }
             }
             Console.WriteLine(matrix[rowIndex, columnIndex] + " " + matrix[rowIndex, columnIndex + 1]);
