@@ -1,0 +1,11 @@
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\20180212_Defining_Classes\bin\Debug\netcoreapp2.0\20180212_Defining_Classes.deps.json
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\20180212_Defining_Classes\bin\Debug\netcoreapp2.0\20180212_Defining_Classes.runtimeconfig.json
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\20180212_Defining_Classes\bin\Debug\netcoreapp2.0\20180212_Defining_Classes.runtimeconfig.dev.json
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\20180212_Defining_Classes\bin\Debug\netcoreapp2.0\20180212_Defining_Classes.dll
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\20180212_Defining_Classes\bin\Debug\netcoreapp2.0\20180212_Defining_Classes.pdb
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\20180212_Defining_Classes\obj\Debug\netcoreapp2.0\20180212_Defining_Classes.csprojResolveAssemblyReference.cache
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\20180212_Defining_Classes\obj\Debug\netcoreapp2.0\20180212_Defining_Classes.csproj.CoreCompileInputs.cache
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\20180212_Defining_Classes\obj\Debug\netcoreapp2.0\20180212_Defining_Classes.AssemblyInfoInputs.cache
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\20180212_Defining_Classes\obj\Debug\netcoreapp2.0\20180212_Defining_Classes.AssemblyInfo.cs
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\20180212_Defining_Classes\obj\Debug\netcoreapp2.0\20180212_Defining_Classes.dll
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\20180212_Defining_Classes\obj\Debug\netcoreapp2.0\20180212_Defining_Classes.pdb
