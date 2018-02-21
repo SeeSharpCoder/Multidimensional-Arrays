@@ -6,7 +6,7 @@ namespace _20180212_Defining_Classes
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Bitches! ");
         }
     }
 }
