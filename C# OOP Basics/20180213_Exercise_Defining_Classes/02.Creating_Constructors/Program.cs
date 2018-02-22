@@ -6,7 +6,7 @@ namespace _02.Creating_Constructors
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello faf!");
         }
     }
 }
