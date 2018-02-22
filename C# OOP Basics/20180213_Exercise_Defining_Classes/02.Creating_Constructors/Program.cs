@@ -6,7 +6,12 @@ namespace _02.Creating_Constructors
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello faf!");
+            Person info = new Person();
+
+            info.Name = "Pesho";
+            info.Age = 20;
+
+            Console.WriteLine($"Name {info.Name}, age {info.Age}");
         }
     }
 }
