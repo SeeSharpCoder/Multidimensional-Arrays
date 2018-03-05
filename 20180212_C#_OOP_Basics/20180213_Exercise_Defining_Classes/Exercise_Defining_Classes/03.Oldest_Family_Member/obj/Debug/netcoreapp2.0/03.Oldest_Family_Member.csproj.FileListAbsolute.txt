@@ -1,0 +1,11 @@
+D:\CodinG\SoftUni\20180212_C#_OOP_Basics\20180213_Exercise_Defining_Classes\Exercise_Defining_Classes\03.Oldest_Family_Member\bin\Debug\netcoreapp2.0\03.Oldest_Family_Member.deps.json
+D:\CodinG\SoftUni\20180212_C#_OOP_Basics\20180213_Exercise_Defining_Classes\Exercise_Defining_Classes\03.Oldest_Family_Member\bin\Debug\netcoreapp2.0\03.Oldest_Family_Member.runtimeconfig.json
+D:\CodinG\SoftUni\20180212_C#_OOP_Basics\20180213_Exercise_Defining_Classes\Exercise_Defining_Classes\03.Oldest_Family_Member\bin\Debug\netcoreapp2.0\03.Oldest_Family_Member.runtimeconfig.dev.json
+D:\CodinG\SoftUni\20180212_C#_OOP_Basics\20180213_Exercise_Defining_Classes\Exercise_Defining_Classes\03.Oldest_Family_Member\bin\Debug\netcoreapp2.0\03.Oldest_Family_Member.dll
+D:\CodinG\SoftUni\20180212_C#_OOP_Basics\20180213_Exercise_Defining_Classes\Exercise_Defining_Classes\03.Oldest_Family_Member\bin\Debug\netcoreapp2.0\03.Oldest_Family_Member.pdb
+D:\CodinG\SoftUni\20180212_C#_OOP_Basics\20180213_Exercise_Defining_Classes\Exercise_Defining_Classes\03.Oldest_Family_Member\obj\Debug\netcoreapp2.0\03.Oldest_Family_Member.csprojResolveAssemblyReference.cache
+D:\CodinG\SoftUni\20180212_C#_OOP_Basics\20180213_Exercise_Defining_Classes\Exercise_Defining_Classes\03.Oldest_Family_Member\obj\Debug\netcoreapp2.0\03.Oldest_Family_Member.csproj.CoreCompileInputs.cache
+D:\CodinG\SoftUni\20180212_C#_OOP_Basics\20180213_Exercise_Defining_Classes\Exercise_Defining_Classes\03.Oldest_Family_Member\obj\Debug\netcoreapp2.0\03.Oldest_Family_Member.AssemblyInfoInputs.cache
+D:\CodinG\SoftUni\20180212_C#_OOP_Basics\20180213_Exercise_Defining_Classes\Exercise_Defining_Classes\03.Oldest_Family_Member\obj\Debug\netcoreapp2.0\03.Oldest_Family_Member.AssemblyInfo.cs
+D:\CodinG\SoftUni\20180212_C#_OOP_Basics\20180213_Exercise_Defining_Classes\Exercise_Defining_Classes\03.Oldest_Family_Member\obj\Debug\netcoreapp2.0\03.Oldest_Family_Member.dll
+D:\CodinG\SoftUni\20180212_C#_OOP_Basics\20180213_Exercise_Defining_Classes\Exercise_Defining_Classes\03.Oldest_Family_Member\obj\Debug\netcoreapp2.0\03.Oldest_Family_Member.pdb
