@@ -1,0 +1,6 @@
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\03. Maximum Element\bin\Debug\_03.Maximum_Element.exe.config
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\03. Maximum Element\bin\Debug\_03.Maximum_Element.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\03. Maximum Element\bin\Debug\_03.Maximum_Element.pdb
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\03. Maximum Element\obj\Debug\03. Maximum Element.csprojResolveAssemblyReference.cache
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\03. Maximum Element\obj\Debug\_03.Maximum_Element.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\03. Maximum Element\obj\Debug\_03.Maximum_Element.pdb

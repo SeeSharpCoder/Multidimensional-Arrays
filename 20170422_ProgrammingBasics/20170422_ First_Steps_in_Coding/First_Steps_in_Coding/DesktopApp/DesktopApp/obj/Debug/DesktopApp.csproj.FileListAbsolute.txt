@@ -1,0 +1,9 @@
+C:\Users\ADMIN\Desktop\CSharpProjects\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe.config
+C:\Users\ADMIN\Desktop\CSharpProjects\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe
+C:\Users\ADMIN\Desktop\CSharpProjects\DesktopApp\DesktopApp\bin\Debug\DesktopApp.pdb
+C:\Users\ADMIN\Desktop\CSharpProjects\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\CSharpProjects\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Form1.resources
+C:\Users\ADMIN\Desktop\CSharpProjects\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\CSharpProjects\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\CSharpProjects\DesktopApp\DesktopApp\obj\Debug\DesktopApp.exe
+C:\Users\ADMIN\Desktop\CSharpProjects\DesktopApp\DesktopApp\obj\Debug\DesktopApp.pdb

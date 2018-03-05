@@ -1,0 +1,5 @@
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\03. Custom Min Function\bin\Debug\_03.Custom_Min_Function.exe.config
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\03. Custom Min Function\bin\Debug\_03.Custom_Min_Function.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\03. Custom Min Function\bin\Debug\_03.Custom_Min_Function.pdb
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\03. Custom Min Function\obj\Debug\_03.Custom_Min_Function.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\03. Custom Min Function\obj\Debug\_03.Custom_Min_Function.pdb

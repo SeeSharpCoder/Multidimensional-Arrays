@@ -1,0 +1,11 @@
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180213_Exercise_Defining_Classes\01.Define_a_Class_Person\bin\Debug\netcoreapp2.0\01.Define_a_Class_Person.deps.json
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180213_Exercise_Defining_Classes\01.Define_a_Class_Person\bin\Debug\netcoreapp2.0\01.Define_a_Class_Person.runtimeconfig.json
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180213_Exercise_Defining_Classes\01.Define_a_Class_Person\bin\Debug\netcoreapp2.0\01.Define_a_Class_Person.runtimeconfig.dev.json
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180213_Exercise_Defining_Classes\01.Define_a_Class_Person\bin\Debug\netcoreapp2.0\01.Define_a_Class_Person.dll
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180213_Exercise_Defining_Classes\01.Define_a_Class_Person\bin\Debug\netcoreapp2.0\01.Define_a_Class_Person.pdb
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180213_Exercise_Defining_Classes\01.Define_a_Class_Person\obj\Debug\netcoreapp2.0\01.Define_a_Class_Person.csprojResolveAssemblyReference.cache
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180213_Exercise_Defining_Classes\01.Define_a_Class_Person\obj\Debug\netcoreapp2.0\01.Define_a_Class_Person.csproj.CoreCompileInputs.cache
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180213_Exercise_Defining_Classes\01.Define_a_Class_Person\obj\Debug\netcoreapp2.0\01.Define_a_Class_Person.AssemblyInfoInputs.cache
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180213_Exercise_Defining_Classes\01.Define_a_Class_Person\obj\Debug\netcoreapp2.0\01.Define_a_Class_Person.AssemblyInfo.cs
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180213_Exercise_Defining_Classes\01.Define_a_Class_Person\obj\Debug\netcoreapp2.0\01.Define_a_Class_Person.dll
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180213_Exercise_Defining_Classes\01.Define_a_Class_Person\obj\Debug\netcoreapp2.0\01.Define_a_Class_Person.pdb

@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF_sept2017\20171013_LINQ_ex\LINQ_ex\TEST\bin\Debug\TEST.exe.config
+D:\Textovi\C#\School\PF_sept2017\20171013_LINQ_ex\LINQ_ex\TEST\bin\Debug\TEST.exe
+D:\Textovi\C#\School\PF_sept2017\20171013_LINQ_ex\LINQ_ex\TEST\bin\Debug\TEST.pdb
+D:\Textovi\C#\School\PF_sept2017\20171013_LINQ_ex\LINQ_ex\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF_sept2017\20171013_LINQ_ex\LINQ_ex\TEST\obj\Debug\TEST.exe
+D:\Textovi\C#\School\PF_sept2017\20171013_LINQ_ex\LINQ_ex\TEST\obj\Debug\TEST.pdb

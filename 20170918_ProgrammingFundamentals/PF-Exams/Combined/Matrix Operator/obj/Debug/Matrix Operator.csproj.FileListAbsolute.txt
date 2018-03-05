@@ -1,0 +1,5 @@
+D:\Textovi\C#\School\PF-Exams\Combined\Matrix Operator\bin\Debug\Matrix Operator.exe.config
+D:\Textovi\C#\School\PF-Exams\Combined\Matrix Operator\bin\Debug\Matrix Operator.exe
+D:\Textovi\C#\School\PF-Exams\Combined\Matrix Operator\bin\Debug\Matrix Operator.pdb
+D:\Textovi\C#\School\PF-Exams\Combined\Matrix Operator\obj\Debug\Matrix Operator.exe
+D:\Textovi\C#\School\PF-Exams\Combined\Matrix Operator\obj\Debug\Matrix Operator.pdb

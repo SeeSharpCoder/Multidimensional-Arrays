@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\20170617_Exercise_Exam - 7 May 2017\Exercise_Exam - 7 May 2017\06. Number Generator\obj\Debug\06. Number Generator.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\20170617_Exercise_Exam - 7 May 2017\Exercise_Exam - 7 May 2017\06. Number Generator\bin\Debug\_06.Number_Generator.exe.config
+D:\Textovi\CSharpProjects\School\20170617_Exercise_Exam - 7 May 2017\Exercise_Exam - 7 May 2017\06. Number Generator\bin\Debug\_06.Number_Generator.exe
+D:\Textovi\CSharpProjects\School\20170617_Exercise_Exam - 7 May 2017\Exercise_Exam - 7 May 2017\06. Number Generator\bin\Debug\_06.Number_Generator.pdb
+D:\Textovi\CSharpProjects\School\20170617_Exercise_Exam - 7 May 2017\Exercise_Exam - 7 May 2017\06. Number Generator\obj\Debug\_06.Number_Generator.exe
+D:\Textovi\CSharpProjects\School\20170617_Exercise_Exam - 7 May 2017\Exercise_Exam - 7 May 2017\06. Number Generator\obj\Debug\_06.Number_Generator.pdb

@@ -1,0 +1,11 @@
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\01.Bank_Account\bin\Debug\netcoreapp1.1\01.Bank_Account.deps.json
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\01.Bank_Account\bin\Debug\netcoreapp1.1\01.Bank_Account.runtimeconfig.json
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\01.Bank_Account\bin\Debug\netcoreapp1.1\01.Bank_Account.runtimeconfig.dev.json
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\01.Bank_Account\bin\Debug\netcoreapp1.1\01.Bank_Account.dll
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\01.Bank_Account\bin\Debug\netcoreapp1.1\01.Bank_Account.pdb
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\01.Bank_Account\obj\Debug\netcoreapp1.1\01.Bank_Account.csprojResolveAssemblyReference.cache
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\01.Bank_Account\obj\Debug\netcoreapp1.1\01.Bank_Account.csproj.CoreCompileInputs.cache
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\01.Bank_Account\obj\Debug\netcoreapp1.1\01.Bank_Account.AssemblyInfoInputs.cache
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\01.Bank_Account\obj\Debug\netcoreapp1.1\01.Bank_Account.AssemblyInfo.cs
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\01.Bank_Account\obj\Debug\netcoreapp1.1\01.Bank_Account.dll
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\01.Bank_Account\obj\Debug\netcoreapp1.1\01.Bank_Account.pdb

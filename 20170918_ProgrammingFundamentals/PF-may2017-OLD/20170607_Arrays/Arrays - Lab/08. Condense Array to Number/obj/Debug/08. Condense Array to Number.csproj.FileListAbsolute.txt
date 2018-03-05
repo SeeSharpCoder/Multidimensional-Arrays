@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\08. Condense Array to Number\obj\Debug\08. Condense Array to Number.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\08. Condense Array to Number\obj\Debug\_08.Condense_Array_to_Number.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\08. Condense Array to Number\obj\Debug\_08.Condense_Array_to_Number.pdb

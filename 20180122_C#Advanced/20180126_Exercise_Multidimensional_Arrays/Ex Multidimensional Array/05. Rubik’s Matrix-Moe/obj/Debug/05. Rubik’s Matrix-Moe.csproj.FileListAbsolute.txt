@@ -1,0 +1,6 @@
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\05. Rubik’s Matrix-Moe\bin\Debug\_05.Rubik_s_Matrix_Moe.exe.config
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\05. Rubik’s Matrix-Moe\bin\Debug\_05.Rubik_s_Matrix_Moe.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\05. Rubik’s Matrix-Moe\bin\Debug\_05.Rubik_s_Matrix_Moe.pdb
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\05. Rubik’s Matrix-Moe\obj\Debug\05. Rubik’s Matrix-Moe.csprojResolveAssemblyReference.cache
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\05. Rubik’s Matrix-Moe\obj\Debug\_05.Rubik_s_Matrix_Moe.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\05. Rubik’s Matrix-Moe\obj\Debug\_05.Rubik_s_Matrix_Moe.pdb

@@ -1,0 +1,5 @@
+D:\Textovi\C#\School\PF-Exams\Combined\SoftUni Coffee Supplies\bin\Debug\SoftUni Coffee Supplies.exe.config
+D:\Textovi\C#\School\PF-Exams\Combined\SoftUni Coffee Supplies\bin\Debug\SoftUni Coffee Supplies.exe
+D:\Textovi\C#\School\PF-Exams\Combined\SoftUni Coffee Supplies\bin\Debug\SoftUni Coffee Supplies.pdb
+D:\Textovi\C#\School\PF-Exams\Combined\SoftUni Coffee Supplies\obj\Debug\SoftUni Coffee Supplies.exe
+D:\Textovi\C#\School\PF-Exams\Combined\SoftUni Coffee Supplies\obj\Debug\SoftUni Coffee Supplies.pdb

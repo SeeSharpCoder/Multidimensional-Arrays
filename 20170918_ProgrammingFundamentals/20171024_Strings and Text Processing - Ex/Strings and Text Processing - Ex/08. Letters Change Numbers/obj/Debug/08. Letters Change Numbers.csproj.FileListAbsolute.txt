@@ -1,0 +1,5 @@
+D:\Textovi\C#\School\PF_sept2017\20171024_Strings and Text Processing - Ex\Strings and Text Processing - Ex\08. Letters Change Numbers\bin\Debug\_08.Letters_Change_Numbers.exe.config
+D:\Textovi\C#\School\PF_sept2017\20171024_Strings and Text Processing - Ex\Strings and Text Processing - Ex\08. Letters Change Numbers\bin\Debug\_08.Letters_Change_Numbers.exe
+D:\Textovi\C#\School\PF_sept2017\20171024_Strings and Text Processing - Ex\Strings and Text Processing - Ex\08. Letters Change Numbers\bin\Debug\_08.Letters_Change_Numbers.pdb
+D:\Textovi\C#\School\PF_sept2017\20171024_Strings and Text Processing - Ex\Strings and Text Processing - Ex\08. Letters Change Numbers\obj\Debug\_08.Letters_Change_Numbers.exe
+D:\Textovi\C#\School\PF_sept2017\20171024_Strings and Text Processing - Ex\Strings and Text Processing - Ex\08. Letters Change Numbers\obj\Debug\_08.Letters_Change_Numbers.pdb

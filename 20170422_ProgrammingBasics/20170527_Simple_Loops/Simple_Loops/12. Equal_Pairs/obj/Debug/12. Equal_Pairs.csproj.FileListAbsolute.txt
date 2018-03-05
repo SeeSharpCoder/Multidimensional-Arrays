@@ -1,0 +1,5 @@
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\12. Equal_Pairs\bin\Debug\_12.Equal_Pairs.exe.config
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\12. Equal_Pairs\bin\Debug\_12.Equal_Pairs.exe
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\12. Equal_Pairs\bin\Debug\_12.Equal_Pairs.pdb
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\12. Equal_Pairs\obj\Debug\_12.Equal_Pairs.exe
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\12. Equal_Pairs\obj\Debug\_12.Equal_Pairs.pdb

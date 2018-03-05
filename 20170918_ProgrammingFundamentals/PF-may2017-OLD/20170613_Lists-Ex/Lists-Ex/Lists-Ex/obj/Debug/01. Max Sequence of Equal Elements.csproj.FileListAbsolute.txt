@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170613_Lists-Ex\Lists-Ex\Lists-Ex\bin\Debug\Lists-Ex.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170613_Lists-Ex\Lists-Ex\Lists-Ex\bin\Debug\Lists-Ex.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170613_Lists-Ex\Lists-Ex\Lists-Ex\bin\Debug\Lists-Ex.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170613_Lists-Ex\Lists-Ex\Lists-Ex\obj\Debug\01. Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-may2017-OLD\20170613_Lists-Ex\Lists-Ex\Lists-Ex\obj\Debug\Lists-Ex.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170613_Lists-Ex\Lists-Ex\Lists-Ex\obj\Debug\Lists-Ex.pdb

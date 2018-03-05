@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\02. Reverse Array of Integers\bin\Debug\_02.Reverse_Array_of_Integers.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\02. Reverse Array of Integers\bin\Debug\_02.Reverse_Array_of_Integers.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\02. Reverse Array of Integers\bin\Debug\_02.Reverse_Array_of_Integers.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\02. Reverse Array of Integers\obj\Debug\02. Reverse Array of Integers.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\02. Reverse Array of Integers\obj\Debug\_02.Reverse_Array_of_Integers.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\02. Reverse Array of Integers\obj\Debug\_02.Reverse_Array_of_Integers.pdb

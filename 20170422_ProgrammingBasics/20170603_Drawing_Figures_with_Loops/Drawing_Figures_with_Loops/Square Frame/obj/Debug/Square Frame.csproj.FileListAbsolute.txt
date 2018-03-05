@@ -1,0 +1,5 @@
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Square Frame\bin\Debug\Square Frame.exe.config
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Square Frame\bin\Debug\Square Frame.exe
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Square Frame\bin\Debug\Square Frame.pdb
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Square Frame\obj\Debug\Square Frame.exe
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Square Frame\obj\Debug\Square Frame.pdb

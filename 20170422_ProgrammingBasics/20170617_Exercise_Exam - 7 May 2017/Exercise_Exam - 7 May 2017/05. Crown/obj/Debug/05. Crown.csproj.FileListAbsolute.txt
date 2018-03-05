@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\20170617_Exercise\Exercise\05. Crown\bin\Debug\_05.Crown.exe.config
+D:\Textovi\CSharpProjects\School\20170617_Exercise\Exercise\05. Crown\bin\Debug\_05.Crown.exe
+D:\Textovi\CSharpProjects\School\20170617_Exercise\Exercise\05. Crown\bin\Debug\_05.Crown.pdb
+D:\Textovi\CSharpProjects\School\20170617_Exercise\Exercise\05. Crown\obj\Debug\05. Crown.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\20170617_Exercise\Exercise\05. Crown\obj\Debug\_05.Crown.exe
+D:\Textovi\CSharpProjects\School\20170617_Exercise\Exercise\05. Crown\obj\Debug\_05.Crown.pdb

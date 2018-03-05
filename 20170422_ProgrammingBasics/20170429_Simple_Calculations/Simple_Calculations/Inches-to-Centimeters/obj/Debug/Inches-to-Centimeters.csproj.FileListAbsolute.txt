@@ -1,0 +1,5 @@
+c:\Users\ADMIN\documents\visual studio 2017\Projects\Lecture02\Inches-to-Centimeters\bin\Debug\Inches-to-Centimeters.exe.config
+c:\Users\ADMIN\documents\visual studio 2017\Projects\Lecture02\Inches-to-Centimeters\bin\Debug\Inches-to-Centimeters.exe
+c:\Users\ADMIN\documents\visual studio 2017\Projects\Lecture02\Inches-to-Centimeters\bin\Debug\Inches-to-Centimeters.pdb
+c:\Users\ADMIN\documents\visual studio 2017\Projects\Lecture02\Inches-to-Centimeters\obj\Debug\Inches-to-Centimeters.exe
+c:\Users\ADMIN\documents\visual studio 2017\Projects\Lecture02\Inches-to-Centimeters\obj\Debug\Inches-to-Centimeters.pdb

@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Bonus Score\bin\Debug\Bonus Score.exe.config
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Bonus Score\bin\Debug\Bonus Score.exe
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Bonus Score\bin\Debug\Bonus Score.pdb
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Bonus Score\obj\Debug\Bonus Score.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Bonus Score\obj\Debug\Bonus Score.exe
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Bonus Score\obj\Debug\Bonus Score.pdb

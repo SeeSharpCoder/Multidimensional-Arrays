@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170612_Lists\Lists\05. Sort Numbers\obj\Debug\05. Sort Numbers.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-may2017-OLD\20170612_Lists\Lists\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170612_Lists\Lists\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170612_Lists\Lists\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170612_Lists\Lists\05. Sort Numbers\obj\Debug\_05.Sort_Numbers.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170612_Lists\Lists\05. Sort Numbers\obj\Debug\_05.Sort_Numbers.pdb

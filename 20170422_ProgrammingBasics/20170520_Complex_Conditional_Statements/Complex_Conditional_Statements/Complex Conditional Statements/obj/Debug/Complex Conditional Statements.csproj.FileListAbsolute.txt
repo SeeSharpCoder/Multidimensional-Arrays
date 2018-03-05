@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\Lecture04\Complex Conditional Statements\Complex Conditional Statements\obj\Debug\Complex Conditional Statements.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\Lecture04\Complex Conditional Statements\Complex Conditional Statements\bin\Debug\Complex Conditional Statements.exe.config
+D:\Textovi\CSharpProjects\School\Lecture04\Complex Conditional Statements\Complex Conditional Statements\bin\Debug\Complex Conditional Statements.exe
+D:\Textovi\CSharpProjects\School\Lecture04\Complex Conditional Statements\Complex Conditional Statements\bin\Debug\Complex Conditional Statements.pdb
+D:\Textovi\CSharpProjects\School\Lecture04\Complex Conditional Statements\Complex Conditional Statements\obj\Debug\Complex Conditional Statements.exe
+D:\Textovi\CSharpProjects\School\Lecture04\Complex Conditional Statements\Complex Conditional Statements\obj\Debug\Complex Conditional Statements.pdb

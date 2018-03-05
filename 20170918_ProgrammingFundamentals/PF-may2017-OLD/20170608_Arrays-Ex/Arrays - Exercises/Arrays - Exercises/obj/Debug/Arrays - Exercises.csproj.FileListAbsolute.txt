@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170608_Arrays-Ex\Arrays - Exercises\Arrays - Exercises\bin\Debug\Arrays - Exercises.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170608_Arrays-Ex\Arrays - Exercises\Arrays - Exercises\bin\Debug\Arrays - Exercises.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170608_Arrays-Ex\Arrays - Exercises\Arrays - Exercises\bin\Debug\Arrays - Exercises.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170608_Arrays-Ex\Arrays - Exercises\Arrays - Exercises\obj\Debug\Arrays - Exercises.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-may2017-OLD\20170608_Arrays-Ex\Arrays - Exercises\Arrays - Exercises\obj\Debug\Arrays - Exercises.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170608_Arrays-Ex\Arrays - Exercises\Arrays - Exercises\obj\Debug\Arrays - Exercises.pdb

@@ -1,0 +1,5 @@
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\12. Fibonacci\bin\Debug\_12.Fibonacci.exe.config
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\12. Fibonacci\bin\Debug\_12.Fibonacci.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\12. Fibonacci\bin\Debug\_12.Fibonacci.pdb
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\12. Fibonacci\obj\Debug\_12.Fibonacci.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\12. Fibonacci\obj\Debug\_12.Fibonacci.pdb

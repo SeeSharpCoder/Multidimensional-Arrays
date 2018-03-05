@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\07.Christmas Tree\obj\Debug\07.Christmas Tree.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\07.Christmas Tree\bin\Debug\07.Christmas Tree.exe.config
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\07.Christmas Tree\bin\Debug\07.Christmas Tree.exe
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\07.Christmas Tree\bin\Debug\07.Christmas Tree.pdb
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\07.Christmas Tree\obj\Debug\07.Christmas Tree.exe
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\07.Christmas Tree\obj\Debug\07.Christmas Tree.pdb

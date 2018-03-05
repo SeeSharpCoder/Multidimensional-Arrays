@@ -1,0 +1,5 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170628_Regular Expressions (RegEx)\RegEx\08. Use Your Chains, Buddy\bin\Debug\_08.Use_Your_Chains__Buddy.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170628_Regular Expressions (RegEx)\RegEx\08. Use Your Chains, Buddy\bin\Debug\_08.Use_Your_Chains__Buddy.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170628_Regular Expressions (RegEx)\RegEx\08. Use Your Chains, Buddy\bin\Debug\_08.Use_Your_Chains__Buddy.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170628_Regular Expressions (RegEx)\RegEx\08. Use Your Chains, Buddy\obj\Debug\_08.Use_Your_Chains__Buddy.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170628_Regular Expressions (RegEx)\RegEx\08. Use Your Chains, Buddy\obj\Debug\_08.Use_Your_Chains__Buddy.pdb

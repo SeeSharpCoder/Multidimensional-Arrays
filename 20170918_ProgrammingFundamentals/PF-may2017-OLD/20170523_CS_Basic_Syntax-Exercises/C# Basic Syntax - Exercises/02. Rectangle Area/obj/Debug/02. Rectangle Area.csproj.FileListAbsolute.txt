@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\Programming Fundamentals - may 2017-OLD\20170523_CS_Basic_Syntax-Exercises\C# Basic Syntax - Exercises\02. Rectangle Area\obj\Debug\02. Rectangle Area.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\Programming Fundamentals - may 2017-OLD\20170523_CS_Basic_Syntax-Exercises\C# Basic Syntax - Exercises\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.exe.config
+D:\Textovi\CSharpProjects\School\Programming Fundamentals - may 2017-OLD\20170523_CS_Basic_Syntax-Exercises\C# Basic Syntax - Exercises\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.exe
+D:\Textovi\CSharpProjects\School\Programming Fundamentals - may 2017-OLD\20170523_CS_Basic_Syntax-Exercises\C# Basic Syntax - Exercises\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.pdb
+D:\Textovi\CSharpProjects\School\Programming Fundamentals - may 2017-OLD\20170523_CS_Basic_Syntax-Exercises\C# Basic Syntax - Exercises\02. Rectangle Area\obj\Debug\_02.Rectangle_Area.exe
+D:\Textovi\CSharpProjects\School\Programming Fundamentals - may 2017-OLD\20170523_CS_Basic_Syntax-Exercises\C# Basic Syntax - Exercises\02. Rectangle Area\obj\Debug\_02.Rectangle_Area.pdb

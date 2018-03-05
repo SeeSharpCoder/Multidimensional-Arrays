@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\09. Extract Middle Elements\bin\Debug\_09.Extract_Middle_Elements.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\09. Extract Middle Elements\bin\Debug\_09.Extract_Middle_Elements.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\09. Extract Middle Elements\bin\Debug\_09.Extract_Middle_Elements.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\09. Extract Middle Elements\obj\Debug\09. Extract Middle Elements.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\09. Extract Middle Elements\obj\Debug\_09.Extract_Middle_Elements.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\09. Extract Middle Elements\obj\Debug\_09.Extract_Middle_Elements.pdb

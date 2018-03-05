@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\Simple Loops\bin\Debug\Simple Loops.exe.config
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\Simple Loops\bin\Debug\Simple Loops.exe
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\Simple Loops\bin\Debug\Simple Loops.pdb
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\Simple Loops\obj\Debug\Simple Loops.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\Simple Loops\obj\Debug\Simple Loops.exe
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\Simple Loops\obj\Debug\Simple Loops.pdb

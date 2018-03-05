@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\20170520_Lecture04\Complex Conditional Statements\07. Fruit Shop\bin\Debug\_07.Fruit_Shop.exe.config
+D:\Textovi\CSharpProjects\School\20170520_Lecture04\Complex Conditional Statements\07. Fruit Shop\bin\Debug\_07.Fruit_Shop.exe
+D:\Textovi\CSharpProjects\School\20170520_Lecture04\Complex Conditional Statements\07. Fruit Shop\bin\Debug\_07.Fruit_Shop.pdb
+D:\Textovi\CSharpProjects\School\20170520_Lecture04\Complex Conditional Statements\07. Fruit Shop\obj\Debug\07. Fruit Shop.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\20170520_Lecture04\Complex Conditional Statements\07. Fruit Shop\obj\Debug\_07.Fruit_Shop.exe
+D:\Textovi\CSharpProjects\School\20170520_Lecture04\Complex Conditional Statements\07. Fruit Shop\obj\Debug\_07.Fruit_Shop.pdb

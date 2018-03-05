@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\08.Sunglasses\bin\Debug\08.Sunglasses.exe.config
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\08.Sunglasses\bin\Debug\08.Sunglasses.exe
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\08.Sunglasses\bin\Debug\08.Sunglasses.pdb
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\08.Sunglasses\obj\Debug\08.Sunglasses.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\08.Sunglasses\obj\Debug\08.Sunglasses.exe
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\08.Sunglasses\obj\Debug\08.Sunglasses.pdb

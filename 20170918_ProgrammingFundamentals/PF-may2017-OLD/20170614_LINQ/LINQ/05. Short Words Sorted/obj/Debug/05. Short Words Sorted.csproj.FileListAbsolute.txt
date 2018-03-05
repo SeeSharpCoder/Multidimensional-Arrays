@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\05. Short Words Sorted\bin\Debug\_05.Short_Words_Sorted.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\05. Short Words Sorted\bin\Debug\_05.Short_Words_Sorted.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\05. Short Words Sorted\bin\Debug\_05.Short_Words_Sorted.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\05. Short Words Sorted\obj\Debug\05. Short Words Sorted.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\05. Short Words Sorted\obj\Debug\_05.Short_Words_Sorted.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\05. Short Words Sorted\obj\Debug\_05.Short_Words_Sorted.pdb

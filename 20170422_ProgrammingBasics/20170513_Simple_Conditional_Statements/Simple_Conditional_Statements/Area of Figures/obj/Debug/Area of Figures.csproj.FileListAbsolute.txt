@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Area of Figures\bin\Debug\Area of Figures.exe.config
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Area of Figures\bin\Debug\Area of Figures.exe
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Area of Figures\bin\Debug\Area of Figures.pdb
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Area of Figures\obj\Debug\Area of Figures.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Area of Figures\obj\Debug\Area of Figures.exe
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Area of Figures\obj\Debug\Area of Figures.pdb

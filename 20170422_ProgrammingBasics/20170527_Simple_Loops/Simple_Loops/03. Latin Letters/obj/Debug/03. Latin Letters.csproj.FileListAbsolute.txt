@@ -1,0 +1,5 @@
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\03. Latin Letters\bin\Debug\_03.Latin_Letters.exe.config
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\03. Latin Letters\bin\Debug\_03.Latin_Letters.exe
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\03. Latin Letters\bin\Debug\_03.Latin_Letters.pdb
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\03. Latin Letters\obj\Debug\_03.Latin_Letters.exe
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\03. Latin Letters\obj\Debug\_03.Latin_Letters.pdb

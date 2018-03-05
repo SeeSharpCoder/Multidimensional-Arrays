@@ -1,0 +1,5 @@
+D:\Textovi\C#\School\PF-Exams\Combined\Cubic Messages\bin\Debug\Cubic Messages.exe.config
+D:\Textovi\C#\School\PF-Exams\Combined\Cubic Messages\bin\Debug\Cubic Messages.exe
+D:\Textovi\C#\School\PF-Exams\Combined\Cubic Messages\bin\Debug\Cubic Messages.pdb
+D:\Textovi\C#\School\PF-Exams\Combined\Cubic Messages\obj\Debug\Cubic Messages.exe
+D:\Textovi\C#\School\PF-Exams\Combined\Cubic Messages\obj\Debug\Cubic Messages.pdb

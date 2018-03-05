@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\20170617_Exercise_Exam - 7 May 2017\Exercise_Exam - 7 May 2017\07\bin\Debug\07.exe.config
+D:\Textovi\CSharpProjects\School\20170617_Exercise_Exam - 7 May 2017\Exercise_Exam - 7 May 2017\07\bin\Debug\07.exe
+D:\Textovi\CSharpProjects\School\20170617_Exercise_Exam - 7 May 2017\Exercise_Exam - 7 May 2017\07\bin\Debug\07.pdb
+D:\Textovi\CSharpProjects\School\20170617_Exercise_Exam - 7 May 2017\Exercise_Exam - 7 May 2017\07\obj\Debug\07.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\20170617_Exercise_Exam - 7 May 2017\Exercise_Exam - 7 May 2017\07\obj\Debug\07.exe
+D:\Textovi\CSharpProjects\School\20170617_Exercise_Exam - 7 May 2017\Exercise_Exam - 7 May 2017\07\obj\Debug\07.pdb

@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\01. Count Real Numbers_01\bin\Debug\_01.Count_Real_Numbers_01.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\01. Count Real Numbers_01\bin\Debug\_01.Count_Real_Numbers_01.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\01. Count Real Numbers_01\bin\Debug\_01.Count_Real_Numbers_01.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\01. Count Real Numbers_01\obj\Debug\01. Count Real Numbers_01.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\01. Count Real Numbers_01\obj\Debug\_01.Count_Real_Numbers_01.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\01. Count Real Numbers_01\obj\Debug\_01.Count_Real_Numbers_01.pdb

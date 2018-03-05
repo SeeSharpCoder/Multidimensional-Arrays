@@ -1,0 +1,6 @@
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\04.MaximumSum-Moe\bin\Debug\04.MaximumSum-Moe.exe.config
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\04.MaximumSum-Moe\bin\Debug\04.MaximumSum-Moe.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\04.MaximumSum-Moe\bin\Debug\04.MaximumSum-Moe.pdb
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\04.MaximumSum-Moe\obj\Debug\04.MaximumSum-Moe.csprojResolveAssemblyReference.cache
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\04.MaximumSum-Moe\obj\Debug\04.MaximumSum-Moe.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\04.MaximumSum-Moe\obj\Debug\04.MaximumSum-Moe.pdb

@@ -1,0 +1,5 @@
+D:\Textovi\CSharpProjects\School\20170520_Lecture04\Complex Conditional Statements\10. Animal Type\bin\Debug\_10.Animal_Type.exe.config
+D:\Textovi\CSharpProjects\School\20170520_Lecture04\Complex Conditional Statements\10. Animal Type\bin\Debug\_10.Animal_Type.exe
+D:\Textovi\CSharpProjects\School\20170520_Lecture04\Complex Conditional Statements\10. Animal Type\bin\Debug\_10.Animal_Type.pdb
+D:\Textovi\CSharpProjects\School\20170520_Lecture04\Complex Conditional Statements\10. Animal Type\obj\Debug\_10.Animal_Type.exe
+D:\Textovi\CSharpProjects\School\20170520_Lecture04\Complex Conditional Statements\10. Animal Type\obj\Debug\_10.Animal_Type.pdb

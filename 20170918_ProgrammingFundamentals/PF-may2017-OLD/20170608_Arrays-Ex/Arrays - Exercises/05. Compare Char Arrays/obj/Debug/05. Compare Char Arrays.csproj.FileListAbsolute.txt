@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170608_Arrays-Ex\Arrays - Exercises\05. Compare Char Arrays\bin\Debug\_05.Compare_Char_Arrays.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170608_Arrays-Ex\Arrays - Exercises\05. Compare Char Arrays\bin\Debug\_05.Compare_Char_Arrays.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170608_Arrays-Ex\Arrays - Exercises\05. Compare Char Arrays\bin\Debug\_05.Compare_Char_Arrays.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170608_Arrays-Ex\Arrays - Exercises\05. Compare Char Arrays\obj\Debug\05. Compare Char Arrays.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-may2017-OLD\20170608_Arrays-Ex\Arrays - Exercises\05. Compare Char Arrays\obj\Debug\_05.Compare_Char_Arrays.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170608_Arrays-Ex\Arrays - Exercises\05. Compare Char Arrays\obj\Debug\_05.Compare_Char_Arrays.pdb

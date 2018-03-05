@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\07. Greatest Common Divisor (CGD)\bin\Debug\_07.Greatest_Common_Divisor__CGD_.exe.config
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\07. Greatest Common Divisor (CGD)\bin\Debug\_07.Greatest_Common_Divisor__CGD_.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\07. Greatest Common Divisor (CGD)\bin\Debug\_07.Greatest_Common_Divisor__CGD_.pdb
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\07. Greatest Common Divisor (CGD)\obj\Debug\07. Greatest Common Divisor (CGD).csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\07. Greatest Common Divisor (CGD)\obj\Debug\_07.Greatest_Common_Divisor__CGD_.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\07. Greatest Common Divisor (CGD)\obj\Debug\_07.Greatest_Common_Divisor__CGD_.pdb

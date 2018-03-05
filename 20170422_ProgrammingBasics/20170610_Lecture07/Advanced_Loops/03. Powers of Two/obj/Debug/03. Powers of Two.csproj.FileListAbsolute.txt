@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\03. Powers of Two\bin\Debug\_03.Powers_of_Two.exe.config
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\03. Powers of Two\bin\Debug\_03.Powers_of_Two.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\03. Powers of Two\bin\Debug\_03.Powers_of_Two.pdb
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\03. Powers of Two\obj\Debug\_03.Powers_of_Two.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\03. Powers of Two\obj\Debug\_03.Powers_of_Two.pdb
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\03. Powers of Two\obj\Debug\03. Powers of Two.csprojResolveAssemblyReference.cache

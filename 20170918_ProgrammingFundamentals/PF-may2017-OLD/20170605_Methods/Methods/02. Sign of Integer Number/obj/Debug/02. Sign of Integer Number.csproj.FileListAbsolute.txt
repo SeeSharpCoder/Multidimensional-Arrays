@@ -1,0 +1,6 @@
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\02. Sign of Integer Number\obj\Debug\02. Sign of Integer Number.csprojResolveAssemblyReference.cache
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\02. Sign of Integer Number\bin\Debug\_02.Sign_of_Integer_Number.exe.config
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\02. Sign of Integer Number\bin\Debug\_02.Sign_of_Integer_Number.exe
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\02. Sign of Integer Number\bin\Debug\_02.Sign_of_Integer_Number.pdb
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\02. Sign of Integer Number\obj\Debug\_02.Sign_of_Integer_Number.exe
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\02. Sign of Integer Number\obj\Debug\_02.Sign_of_Integer_Number.pdb

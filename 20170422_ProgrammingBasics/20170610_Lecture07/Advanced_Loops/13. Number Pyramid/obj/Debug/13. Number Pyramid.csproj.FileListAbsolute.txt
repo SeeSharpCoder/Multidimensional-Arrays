@@ -1,0 +1,5 @@
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\13. Number Pyramid\bin\Debug\_13.Number_Pyramid.exe.config
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\13. Number Pyramid\bin\Debug\_13.Number_Pyramid.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\13. Number Pyramid\bin\Debug\_13.Number_Pyramid.pdb
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\13. Number Pyramid\obj\Debug\_13.Number_Pyramid.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\13. Number Pyramid\obj\Debug\_13.Number_Pyramid.pdb

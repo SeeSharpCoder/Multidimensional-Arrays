@@ -1,0 +1,6 @@
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\06. Calculate Triangle Area\obj\Debug\06. Calculate Triangle Area.csprojResolveAssemblyReference.cache
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\06. Calculate Triangle Area\bin\Debug\_06.Calculate_Triangle_Area.exe.config
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\06. Calculate Triangle Area\bin\Debug\_06.Calculate_Triangle_Area.exe
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\06. Calculate Triangle Area\bin\Debug\_06.Calculate_Triangle_Area.pdb
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\06. Calculate Triangle Area\obj\Debug\_06.Calculate_Triangle_Area.exe
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\06. Calculate Triangle Area\obj\Debug\_06.Calculate_Triangle_Area.pdb

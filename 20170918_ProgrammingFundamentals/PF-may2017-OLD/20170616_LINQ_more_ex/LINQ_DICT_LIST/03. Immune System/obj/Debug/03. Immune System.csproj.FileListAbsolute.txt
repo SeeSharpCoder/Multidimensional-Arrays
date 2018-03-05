@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\03. Immune System\bin\Debug\_03.Immune_System.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\03. Immune System\bin\Debug\_03.Immune_System.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\03. Immune System\bin\Debug\_03.Immune_System.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\03. Immune System\obj\Debug\03. Immune System.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\03. Immune System\obj\Debug\_03.Immune_System.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\03. Immune System\obj\Debug\_03.Immune_System.pdb

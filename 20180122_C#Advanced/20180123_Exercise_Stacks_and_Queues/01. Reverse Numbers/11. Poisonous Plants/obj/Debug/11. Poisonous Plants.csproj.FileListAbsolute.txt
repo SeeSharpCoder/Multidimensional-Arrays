@@ -1,0 +1,5 @@
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\11. Poisonous Plants\bin\Debug\_11.Poisonous_Plants.exe.config
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\11. Poisonous Plants\bin\Debug\_11.Poisonous_Plants.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\11. Poisonous Plants\bin\Debug\_11.Poisonous_Plants.pdb
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\11. Poisonous Plants\obj\Debug\_11.Poisonous_Plants.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\11. Poisonous Plants\obj\Debug\_11.Poisonous_Plants.pdb

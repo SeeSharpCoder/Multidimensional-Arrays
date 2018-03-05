@@ -1,0 +1,5 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170628_Regular Expressions (RegEx)\RegEx\06. Valid Usernames\bin\Debug\_06.Valid_Usernames.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170628_Regular Expressions (RegEx)\RegEx\06. Valid Usernames\bin\Debug\_06.Valid_Usernames.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170628_Regular Expressions (RegEx)\RegEx\06. Valid Usernames\bin\Debug\_06.Valid_Usernames.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170628_Regular Expressions (RegEx)\RegEx\06. Valid Usernames\obj\Debug\_06.Valid_Usernames.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170628_Regular Expressions (RegEx)\RegEx\06. Valid Usernames\obj\Debug\_06.Valid_Usernames.pdb

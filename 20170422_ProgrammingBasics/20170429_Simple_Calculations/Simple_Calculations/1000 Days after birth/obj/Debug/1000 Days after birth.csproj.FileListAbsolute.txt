@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\1000 Days after birth\obj\Debug\1000 Days after birth.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\1000 Days after birth\bin\Debug\1000 Days after birth.exe.config
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\1000 Days after birth\bin\Debug\1000 Days after birth.exe
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\1000 Days after birth\bin\Debug\1000 Days after birth.pdb
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\1000 Days after birth\obj\Debug\1000 Days after birth.exe
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\1000 Days after birth\obj\Debug\1000 Days after birth.pdb

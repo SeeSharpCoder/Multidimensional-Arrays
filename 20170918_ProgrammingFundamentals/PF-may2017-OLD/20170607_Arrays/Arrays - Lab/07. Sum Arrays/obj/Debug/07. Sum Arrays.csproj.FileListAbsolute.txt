@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\07. Sum Arrays\bin\Debug\_07.Sum_Arrays.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\07. Sum Arrays\bin\Debug\_07.Sum_Arrays.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\07. Sum Arrays\bin\Debug\_07.Sum_Arrays.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\07. Sum Arrays\obj\Debug\07. Sum Arrays.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\07. Sum Arrays\obj\Debug\_07.Sum_Arrays.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\07. Sum Arrays\obj\Debug\_07.Sum_Arrays.pdb

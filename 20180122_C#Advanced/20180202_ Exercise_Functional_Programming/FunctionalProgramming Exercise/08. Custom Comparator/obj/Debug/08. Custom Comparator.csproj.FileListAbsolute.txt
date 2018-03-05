@@ -1,0 +1,5 @@
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\08. Custom Comparator\bin\Debug\_08.Custom_Comparator.exe.config
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\08. Custom Comparator\bin\Debug\_08.Custom_Comparator.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\08. Custom Comparator\bin\Debug\_08.Custom_Comparator.pdb
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\08. Custom Comparator\obj\Debug\_08.Custom_Comparator.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\08. Custom Comparator\obj\Debug\_08.Custom_Comparator.pdb

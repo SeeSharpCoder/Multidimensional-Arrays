@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.exe.config
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.exe
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.pdb
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.exe
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.pdb

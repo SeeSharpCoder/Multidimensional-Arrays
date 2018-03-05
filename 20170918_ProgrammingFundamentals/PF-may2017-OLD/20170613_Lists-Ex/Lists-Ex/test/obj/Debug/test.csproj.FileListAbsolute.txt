@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170613_Lists-Ex\Lists-Ex\test\bin\Debug\test.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170613_Lists-Ex\Lists-Ex\test\bin\Debug\test.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170613_Lists-Ex\Lists-Ex\test\bin\Debug\test.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170613_Lists-Ex\Lists-Ex\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-may2017-OLD\20170613_Lists-Ex\Lists-Ex\test\obj\Debug\test.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170613_Lists-Ex\Lists-Ex\test\obj\Debug\test.pdb

@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170612_Lists\Lists\06. Square Numbers\bin\Debug\_06.Square_Numbers.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170612_Lists\Lists\06. Square Numbers\bin\Debug\_06.Square_Numbers.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170612_Lists\Lists\06. Square Numbers\bin\Debug\_06.Square_Numbers.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170612_Lists\Lists\06. Square Numbers\obj\Debug\_06.Square_Numbers.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170612_Lists\Lists\06. Square Numbers\obj\Debug\_06.Square_Numbers.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170612_Lists\Lists\06. Square Numbers\obj\Debug\06. Square Numbers.csprojResolveAssemblyReference.cache

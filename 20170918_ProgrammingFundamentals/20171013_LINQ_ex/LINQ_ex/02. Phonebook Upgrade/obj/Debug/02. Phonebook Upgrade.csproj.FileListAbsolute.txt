@@ -1,0 +1,5 @@
+D:\Textovi\C#\School\PF_sept2017\20171013_LINQ_ex\LINQ_ex\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.exe.config
+D:\Textovi\C#\School\PF_sept2017\20171013_LINQ_ex\LINQ_ex\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.exe
+D:\Textovi\C#\School\PF_sept2017\20171013_LINQ_ex\LINQ_ex\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.pdb
+D:\Textovi\C#\School\PF_sept2017\20171013_LINQ_ex\LINQ_ex\02. Phonebook Upgrade\obj\Debug\_02.Phonebook_Upgrade.exe
+D:\Textovi\C#\School\PF_sept2017\20171013_LINQ_ex\LINQ_ex\02. Phonebook Upgrade\obj\Debug\_02.Phonebook_Upgrade.pdb

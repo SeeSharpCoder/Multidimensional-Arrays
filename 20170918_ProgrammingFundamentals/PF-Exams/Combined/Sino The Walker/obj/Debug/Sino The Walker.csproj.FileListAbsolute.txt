@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-Exams\Combined\Sino The Walker\bin\Debug\Sino The Walker.exe.config
+D:\Textovi\C#\School\PF-Exams\Combined\Sino The Walker\bin\Debug\Sino The Walker.exe
+D:\Textovi\C#\School\PF-Exams\Combined\Sino The Walker\bin\Debug\Sino The Walker.pdb
+D:\Textovi\C#\School\PF-Exams\Combined\Sino The Walker\obj\Debug\Sino The Walker.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-Exams\Combined\Sino The Walker\obj\Debug\Sino The Walker.exe
+D:\Textovi\C#\School\PF-Exams\Combined\Sino The Walker\obj\Debug\Sino The Walker.pdb

@@ -1,0 +1,11 @@
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\02.Bank_Account_Methods\bin\Debug\netcoreapp2.0\02.Bank_Account_Methods.deps.json
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\02.Bank_Account_Methods\bin\Debug\netcoreapp2.0\02.Bank_Account_Methods.runtimeconfig.json
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\02.Bank_Account_Methods\bin\Debug\netcoreapp2.0\02.Bank_Account_Methods.runtimeconfig.dev.json
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\02.Bank_Account_Methods\bin\Debug\netcoreapp2.0\02.Bank_Account_Methods.dll
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\02.Bank_Account_Methods\bin\Debug\netcoreapp2.0\02.Bank_Account_Methods.pdb
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\02.Bank_Account_Methods\obj\Debug\netcoreapp2.0\02.Bank_Account_Methods.csproj.CoreCompileInputs.cache
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\02.Bank_Account_Methods\obj\Debug\netcoreapp2.0\02.Bank_Account_Methods.AssemblyInfoInputs.cache
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\02.Bank_Account_Methods\obj\Debug\netcoreapp2.0\02.Bank_Account_Methods.AssemblyInfo.cs
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\02.Bank_Account_Methods\obj\Debug\netcoreapp2.0\02.Bank_Account_Methods.dll
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\02.Bank_Account_Methods\obj\Debug\netcoreapp2.0\02.Bank_Account_Methods.pdb
+E:\Patzo\SU\C#Solutions\C# OOP Basics\20180212_Defining_Classes\02.Bank_Account_Methods\obj\Debug\netcoreapp2.0\02.Bank_Account_Methods.csprojResolveAssemblyReference.cache

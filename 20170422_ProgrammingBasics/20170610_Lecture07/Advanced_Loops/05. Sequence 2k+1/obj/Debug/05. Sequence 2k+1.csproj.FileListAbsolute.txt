@@ -1,0 +1,5 @@
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\05. Sequence 2k+1\bin\Debug\_05.Sequence_2k_1.exe.config
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\05. Sequence 2k+1\bin\Debug\_05.Sequence_2k_1.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\05. Sequence 2k+1\bin\Debug\_05.Sequence_2k_1.pdb
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\05. Sequence 2k+1\obj\Debug\_05.Sequence_2k_1.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\05. Sequence 2k+1\obj\Debug\_05.Sequence_2k_1.pdb

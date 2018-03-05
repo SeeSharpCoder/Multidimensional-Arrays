@@ -1,0 +1,5 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170612_Lists\Lists\04. Split by Word Casing\bin\Debug\_04.Split_by_Word_Casing.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170612_Lists\Lists\04. Split by Word Casing\bin\Debug\_04.Split_by_Word_Casing.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170612_Lists\Lists\04. Split by Word Casing\bin\Debug\_04.Split_by_Word_Casing.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170612_Lists\Lists\04. Split by Word Casing\obj\Debug\_04.Split_by_Word_Casing.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170612_Lists\Lists\04. Split by Word Casing\obj\Debug\_04.Split_by_Word_Casing.pdb

@@ -1,0 +1,5 @@
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\04.MaximumSum\bin\Debug\04.MaximumSum.exe.config
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\04.MaximumSum\bin\Debug\04.MaximumSum.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\04.MaximumSum\bin\Debug\04.MaximumSum.pdb
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\04.MaximumSum\obj\Debug\04.MaximumSum.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\04.MaximumSum\obj\Debug\04.MaximumSum.pdb

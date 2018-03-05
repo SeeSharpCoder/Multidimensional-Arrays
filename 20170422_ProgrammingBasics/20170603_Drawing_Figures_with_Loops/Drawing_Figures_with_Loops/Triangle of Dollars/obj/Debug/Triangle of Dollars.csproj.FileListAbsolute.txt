@@ -1,0 +1,5 @@
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Triangle of Dollars\bin\Debug\Triangle of Dollars.exe.config
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Triangle of Dollars\bin\Debug\Triangle of Dollars.exe
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Triangle of Dollars\bin\Debug\Triangle of Dollars.pdb
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Triangle of Dollars\obj\Debug\Triangle of Dollars.exe
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Triangle of Dollars\obj\Debug\Triangle of Dollars.pdb

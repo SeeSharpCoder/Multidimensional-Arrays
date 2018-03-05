@@ -1,0 +1,5 @@
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Speed Info\bin\Debug\Speed Info.exe.config
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Speed Info\bin\Debug\Speed Info.exe
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Speed Info\bin\Debug\Speed Info.pdb
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Speed Info\obj\Debug\Speed Info.exe
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Speed Info\obj\Debug\Speed Info.pdb

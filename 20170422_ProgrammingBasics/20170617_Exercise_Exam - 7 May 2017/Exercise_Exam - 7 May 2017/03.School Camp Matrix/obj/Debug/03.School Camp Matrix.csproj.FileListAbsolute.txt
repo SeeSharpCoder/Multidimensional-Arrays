@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\20170617_Exercise\Exercise\03.School Camp Matrix\bin\Debug\03.School Camp Matrix.exe.config
+D:\Textovi\CSharpProjects\School\20170617_Exercise\Exercise\03.School Camp Matrix\bin\Debug\03.School Camp Matrix.exe
+D:\Textovi\CSharpProjects\School\20170617_Exercise\Exercise\03.School Camp Matrix\bin\Debug\03.School Camp Matrix.pdb
+D:\Textovi\CSharpProjects\School\20170617_Exercise\Exercise\03.School Camp Matrix\obj\Debug\03.School Camp Matrix.exe
+D:\Textovi\CSharpProjects\School\20170617_Exercise\Exercise\03.School Camp Matrix\obj\Debug\03.School Camp Matrix.pdb
+D:\Textovi\CSharpProjects\School\20170617_Exercise\Exercise\03.School Camp Matrix\obj\Debug\03.School Camp Matrix.csprojResolveAssemblyReference.cache

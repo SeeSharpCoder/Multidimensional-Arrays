@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Circle Area and Perimeter\bin\Debug\Circle Area and Perimeter.exe.config
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Circle Area and Perimeter\bin\Debug\Circle Area and Perimeter.exe
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Circle Area and Perimeter\bin\Debug\Circle Area and Perimeter.pdb
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Circle Area and Perimeter\obj\Debug\Circle Area and Perimeter.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Circle Area and Perimeter\obj\Debug\Circle Area and Perimeter.exe
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Circle Area and Perimeter\obj\Debug\Circle Area and Perimeter.pdb

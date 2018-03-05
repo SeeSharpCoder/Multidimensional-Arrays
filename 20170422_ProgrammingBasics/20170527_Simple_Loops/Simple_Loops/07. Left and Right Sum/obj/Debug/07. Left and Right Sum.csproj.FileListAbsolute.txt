@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.exe.config
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.exe
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.pdb
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\07. Left and Right Sum\obj\Debug\07. Left and Right Sum.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\07. Left and Right Sum\obj\Debug\_07.Left_and_Right_Sum.exe
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\07. Left and Right Sum\obj\Debug\_07.Left_and_Right_Sum.pdb

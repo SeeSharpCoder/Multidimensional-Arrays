@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170608_Arrays-Ex\Arrays - Exercises\02. Rotate and Sum\bin\Debug\_02.Rotate_and_Sum.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170608_Arrays-Ex\Arrays - Exercises\02. Rotate and Sum\bin\Debug\_02.Rotate_and_Sum.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170608_Arrays-Ex\Arrays - Exercises\02. Rotate and Sum\bin\Debug\_02.Rotate_and_Sum.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170608_Arrays-Ex\Arrays - Exercises\02. Rotate and Sum\obj\Debug\_02.Rotate_and_Sum.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170608_Arrays-Ex\Arrays - Exercises\02. Rotate and Sum\obj\Debug\_02.Rotate_and_Sum.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170608_Arrays-Ex\Arrays - Exercises\02. Rotate and Sum\obj\Debug\02. Rotate and Sum.csprojResolveAssemblyReference.cache

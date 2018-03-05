@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\10. Check Prime\obj\Debug\10. Check Prime.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\10. Check Prime\bin\Debug\_10.Check_Prime.exe.config
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\10. Check Prime\bin\Debug\_10.Check_Prime.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\10. Check Prime\bin\Debug\_10.Check_Prime.pdb
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\10. Check Prime\obj\Debug\_10.Check_Prime.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\10. Check Prime\obj\Debug\_10.Check_Prime.pdb

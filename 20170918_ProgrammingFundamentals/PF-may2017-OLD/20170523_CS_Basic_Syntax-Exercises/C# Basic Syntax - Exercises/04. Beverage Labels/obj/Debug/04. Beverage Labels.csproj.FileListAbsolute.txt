@@ -1,0 +1,5 @@
+D:\Textovi\CSharpProjects\School\Programming Fundamentals - may 2017-OLD\20170523_CS_Basic_Syntax-Exercises\C# Basic Syntax - Exercises\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.exe.config
+D:\Textovi\CSharpProjects\School\Programming Fundamentals - may 2017-OLD\20170523_CS_Basic_Syntax-Exercises\C# Basic Syntax - Exercises\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.exe
+D:\Textovi\CSharpProjects\School\Programming Fundamentals - may 2017-OLD\20170523_CS_Basic_Syntax-Exercises\C# Basic Syntax - Exercises\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.pdb
+D:\Textovi\CSharpProjects\School\Programming Fundamentals - may 2017-OLD\20170523_CS_Basic_Syntax-Exercises\C# Basic Syntax - Exercises\04. Beverage Labels\obj\Debug\_04.Beverage_Labels.exe
+D:\Textovi\CSharpProjects\School\Programming Fundamentals - may 2017-OLD\20170523_CS_Basic_Syntax-Exercises\C# Basic Syntax - Exercises\04. Beverage Labels\obj\Debug\_04.Beverage_Labels.pdb

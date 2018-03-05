@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\04. Supermarket Database\bin\Debug\_04.Supermarket_Database.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\04. Supermarket Database\bin\Debug\_04.Supermarket_Database.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\04. Supermarket Database\bin\Debug\_04.Supermarket_Database.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\04. Supermarket Database\obj\Debug\04. Supermarket Database.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\04. Supermarket Database\obj\Debug\_04.Supermarket_Database.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\04. Supermarket Database\obj\Debug\_04.Supermarket_Database.pdb

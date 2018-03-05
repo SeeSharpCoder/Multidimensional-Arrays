@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\2D Rectangle Area\bin\Debug\2D Rectangle Area.exe.config
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\2D Rectangle Area\bin\Debug\2D Rectangle Area.exe
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\2D Rectangle Area\bin\Debug\2D Rectangle Area.pdb
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\2D Rectangle Area\obj\Debug\2D Rectangle Area.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\2D Rectangle Area\obj\Debug\2D Rectangle Area.exe
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\2D Rectangle Area\obj\Debug\2D Rectangle Area.pdb

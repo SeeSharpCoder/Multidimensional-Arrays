@@ -1,0 +1,6 @@
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\06. Truck Tour\bin\Debug\_06.Truck_Tour.exe.config
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\06. Truck Tour\bin\Debug\_06.Truck_Tour.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\06. Truck Tour\bin\Debug\_06.Truck_Tour.pdb
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\06. Truck Tour\obj\Debug\06. Truck Tour.csprojResolveAssemblyReference.cache
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\06. Truck Tour\obj\Debug\_06.Truck_Tour.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\06. Truck Tour\obj\Debug\_06.Truck_Tour.pdb

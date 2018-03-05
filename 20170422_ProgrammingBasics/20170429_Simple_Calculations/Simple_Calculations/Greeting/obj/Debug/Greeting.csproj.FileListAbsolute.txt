@@ -1,0 +1,5 @@
+c:\Users\ADMIN\documents\visual studio 2017\Projects\Lecture02\Greeting\bin\Debug\Greeting.exe.config
+c:\Users\ADMIN\documents\visual studio 2017\Projects\Lecture02\Greeting\bin\Debug\Greeting.exe
+c:\Users\ADMIN\documents\visual studio 2017\Projects\Lecture02\Greeting\bin\Debug\Greeting.pdb
+c:\Users\ADMIN\documents\visual studio 2017\Projects\Lecture02\Greeting\obj\Debug\Greeting.exe
+c:\Users\ADMIN\documents\visual studio 2017\Projects\Lecture02\Greeting\obj\Debug\Greeting.pdb

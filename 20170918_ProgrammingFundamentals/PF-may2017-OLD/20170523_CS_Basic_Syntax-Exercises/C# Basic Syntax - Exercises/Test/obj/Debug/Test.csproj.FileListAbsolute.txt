@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\Programming Fundamentals - may 2017-OLD\20170523_CS_Basic_Syntax-Exercises\C# Basic Syntax - Exercises\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\Programming Fundamentals - may 2017-OLD\20170523_CS_Basic_Syntax-Exercises\C# Basic Syntax - Exercises\Test\bin\Debug\Test.exe.config
+D:\Textovi\CSharpProjects\School\Programming Fundamentals - may 2017-OLD\20170523_CS_Basic_Syntax-Exercises\C# Basic Syntax - Exercises\Test\bin\Debug\Test.exe
+D:\Textovi\CSharpProjects\School\Programming Fundamentals - may 2017-OLD\20170523_CS_Basic_Syntax-Exercises\C# Basic Syntax - Exercises\Test\bin\Debug\Test.pdb
+D:\Textovi\CSharpProjects\School\Programming Fundamentals - may 2017-OLD\20170523_CS_Basic_Syntax-Exercises\C# Basic Syntax - Exercises\Test\obj\Debug\Test.exe
+D:\Textovi\CSharpProjects\School\Programming Fundamentals - may 2017-OLD\20170523_CS_Basic_Syntax-Exercises\C# Basic Syntax - Exercises\Test\obj\Debug\Test.pdb

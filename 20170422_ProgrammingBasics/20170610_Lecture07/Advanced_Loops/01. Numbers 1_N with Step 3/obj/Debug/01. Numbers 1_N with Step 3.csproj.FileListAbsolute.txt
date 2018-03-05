@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\01. Numbers 1_N with Step 3\bin\Debug\_01.Numbers_1_N_with_Step_3.exe.config
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\01. Numbers 1_N with Step 3\bin\Debug\_01.Numbers_1_N_with_Step_3.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\01. Numbers 1_N with Step 3\bin\Debug\_01.Numbers_1_N_with_Step_3.pdb
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\01. Numbers 1_N with Step 3\obj\Debug\01. Numbers 1_N with Step 3.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\01. Numbers 1_N with Step 3\obj\Debug\_01.Numbers_1_N_with_Step_3.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\01. Numbers 1_N with Step 3\obj\Debug\_01.Numbers_1_N_with_Step_3.pdb

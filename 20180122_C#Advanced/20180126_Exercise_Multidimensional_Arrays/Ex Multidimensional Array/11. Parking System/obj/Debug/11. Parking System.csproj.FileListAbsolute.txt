@@ -1,0 +1,5 @@
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\11. Parking System\bin\Debug\_11.Parking_System.exe.config
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\11. Parking System\bin\Debug\_11.Parking_System.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\11. Parking System\bin\Debug\_11.Parking_System.pdb
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\11. Parking System\obj\Debug\_11.Parking_System.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\11. Parking System\obj\Debug\_11.Parking_System.pdb

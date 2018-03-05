@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-Exams\Exam_05Nov2017\04. Anonymous Cache\obj\Debug\04. Anonymous Cache.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-Exams\Exam_05Nov2017\04. Anonymous Cache\bin\Debug\_04.Anonymous_Cache.exe.config
+D:\Textovi\C#\School\PF-Exams\Exam_05Nov2017\04. Anonymous Cache\bin\Debug\_04.Anonymous_Cache.exe
+D:\Textovi\C#\School\PF-Exams\Exam_05Nov2017\04. Anonymous Cache\bin\Debug\_04.Anonymous_Cache.pdb
+D:\Textovi\C#\School\PF-Exams\Exam_05Nov2017\04. Anonymous Cache\obj\Debug\_04.Anonymous_Cache.exe
+D:\Textovi\C#\School\PF-Exams\Exam_05Nov2017\04. Anonymous Cache\obj\Debug\_04.Anonymous_Cache.pdb

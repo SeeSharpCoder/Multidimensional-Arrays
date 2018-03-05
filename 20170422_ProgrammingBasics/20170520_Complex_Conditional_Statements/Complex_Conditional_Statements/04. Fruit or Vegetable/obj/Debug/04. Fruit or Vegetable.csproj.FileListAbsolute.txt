@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\20170520_Lecture04\Complex Conditional Statements\04. Fruit or Vegetable\bin\Debug\_04.Fruit_or_Vegetable.exe.config
+D:\Textovi\CSharpProjects\School\20170520_Lecture04\Complex Conditional Statements\04. Fruit or Vegetable\bin\Debug\_04.Fruit_or_Vegetable.exe
+D:\Textovi\CSharpProjects\School\20170520_Lecture04\Complex Conditional Statements\04. Fruit or Vegetable\bin\Debug\_04.Fruit_or_Vegetable.pdb
+D:\Textovi\CSharpProjects\School\20170520_Lecture04\Complex Conditional Statements\04. Fruit or Vegetable\obj\Debug\04. Fruit or Vegetable.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\20170520_Lecture04\Complex Conditional Statements\04. Fruit or Vegetable\obj\Debug\_04.Fruit_or_Vegetable.exe
+D:\Textovi\CSharpProjects\School\20170520_Lecture04\Complex Conditional Statements\04. Fruit or Vegetable\obj\Debug\_04.Fruit_or_Vegetable.pdb

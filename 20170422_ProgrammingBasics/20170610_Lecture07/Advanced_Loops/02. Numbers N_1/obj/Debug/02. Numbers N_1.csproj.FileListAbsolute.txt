@@ -1,0 +1,5 @@
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\02. Numbers N_1\bin\Debug\_02.Numbers_N_1.exe.config
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\02. Numbers N_1\bin\Debug\_02.Numbers_N_1.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\02. Numbers N_1\bin\Debug\_02.Numbers_N_1.pdb
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\02. Numbers N_1\obj\Debug\_02.Numbers_N_1.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\02. Numbers N_1\obj\Debug\_02.Numbers_N_1.pdb

@@ -1,0 +1,5 @@
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\06. Number in Range [1_100]\bin\Debug\_06.Number_in_Range__1_100_.exe.config
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\06. Number in Range [1_100]\bin\Debug\_06.Number_in_Range__1_100_.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\06. Number in Range [1_100]\bin\Debug\_06.Number_in_Range__1_100_.pdb
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\06. Number in Range [1_100]\obj\Debug\_06.Number_in_Range__1_100_.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\06. Number in Range [1_100]\obj\Debug\_06.Number_in_Range__1_100_.pdb

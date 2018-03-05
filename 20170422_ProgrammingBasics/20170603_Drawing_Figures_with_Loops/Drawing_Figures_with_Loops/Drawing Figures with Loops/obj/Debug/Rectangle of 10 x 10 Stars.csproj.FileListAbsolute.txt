@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Drawing Figures with Loops\obj\Debug\Rectangle of 10 x 10 Stars.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Drawing Figures with Loops\bin\Debug\Drawing Figures with Loops.exe.config
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Drawing Figures with Loops\bin\Debug\Drawing Figures with Loops.exe
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Drawing Figures with Loops\bin\Debug\Drawing Figures with Loops.pdb
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Drawing Figures with Loops\obj\Debug\Drawing Figures with Loops.exe
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Drawing Figures with Loops\obj\Debug\Drawing Figures with Loops.pdb

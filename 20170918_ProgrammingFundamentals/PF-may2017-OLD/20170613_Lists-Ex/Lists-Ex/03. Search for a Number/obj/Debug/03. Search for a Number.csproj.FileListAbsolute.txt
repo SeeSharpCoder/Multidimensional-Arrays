@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170613_Lists-Ex\Lists-Ex\03. Search for a Number\bin\Debug\_03.Search_for_a_Number.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170613_Lists-Ex\Lists-Ex\03. Search for a Number\bin\Debug\_03.Search_for_a_Number.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170613_Lists-Ex\Lists-Ex\03. Search for a Number\bin\Debug\_03.Search_for_a_Number.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170613_Lists-Ex\Lists-Ex\03. Search for a Number\obj\Debug\_03.Search_for_a_Number.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170613_Lists-Ex\Lists-Ex\03. Search for a Number\obj\Debug\_03.Search_for_a_Number.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170613_Lists-Ex\Lists-Ex\03. Search for a Number\obj\Debug\03. Search for a Number.csprojResolveAssemblyReference.cache

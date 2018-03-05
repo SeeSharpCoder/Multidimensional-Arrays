@@ -1,0 +1,5 @@
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\03. Squares in Matrix\bin\Debug\_03.Squares_in_Matrix.exe.config
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\03. Squares in Matrix\bin\Debug\_03.Squares_in_Matrix.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\03. Squares in Matrix\bin\Debug\_03.Squares_in_Matrix.pdb
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\03. Squares in Matrix\obj\Debug\_03.Squares_in_Matrix.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\03. Squares in Matrix\obj\Debug\_03.Squares_in_Matrix.pdb

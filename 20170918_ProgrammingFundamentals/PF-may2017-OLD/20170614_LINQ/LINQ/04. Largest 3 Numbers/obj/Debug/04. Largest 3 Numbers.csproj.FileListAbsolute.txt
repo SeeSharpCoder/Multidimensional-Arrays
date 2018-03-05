@@ -1,0 +1,5 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\04. Largest 3 Numbers\bin\Debug\_04.Largest_3_Numbers.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\04. Largest 3 Numbers\bin\Debug\_04.Largest_3_Numbers.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\04. Largest 3 Numbers\bin\Debug\_04.Largest_3_Numbers.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\04. Largest 3 Numbers\obj\Debug\_04.Largest_3_Numbers.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\04. Largest 3 Numbers\obj\Debug\_04.Largest_3_Numbers.pdb

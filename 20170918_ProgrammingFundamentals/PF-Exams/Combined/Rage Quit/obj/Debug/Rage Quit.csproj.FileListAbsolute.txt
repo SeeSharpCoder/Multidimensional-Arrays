@@ -1,0 +1,5 @@
+D:\Textovi\C#\School\PF-Exams\Combined\Rage Quit\bin\Debug\Rage Quit.exe.config
+D:\Textovi\C#\School\PF-Exams\Combined\Rage Quit\bin\Debug\Rage Quit.exe
+D:\Textovi\C#\School\PF-Exams\Combined\Rage Quit\bin\Debug\Rage Quit.pdb
+D:\Textovi\C#\School\PF-Exams\Combined\Rage Quit\obj\Debug\Rage Quit.exe
+D:\Textovi\C#\School\PF-Exams\Combined\Rage Quit\obj\Debug\Rage Quit.pdb

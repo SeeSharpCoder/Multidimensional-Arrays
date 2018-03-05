@@ -1,0 +1,5 @@
+D:\Textovi\C#\School\PF-Exams\Combined\Trophon the Grumpy Cat\bin\Debug\Trophon the Grumpy Cat.exe.config
+D:\Textovi\C#\School\PF-Exams\Combined\Trophon the Grumpy Cat\bin\Debug\Trophon the Grumpy Cat.exe
+D:\Textovi\C#\School\PF-Exams\Combined\Trophon the Grumpy Cat\bin\Debug\Trophon the Grumpy Cat.pdb
+D:\Textovi\C#\School\PF-Exams\Combined\Trophon the Grumpy Cat\obj\Debug\Trophon the Grumpy Cat.exe
+D:\Textovi\C#\School\PF-Exams\Combined\Trophon the Grumpy Cat\obj\Debug\Trophon the Grumpy Cat.pdb

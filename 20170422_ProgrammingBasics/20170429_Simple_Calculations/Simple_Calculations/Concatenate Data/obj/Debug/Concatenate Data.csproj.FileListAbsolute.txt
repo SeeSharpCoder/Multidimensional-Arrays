@@ -1,0 +1,12 @@
+c:\Users\ADMIN\documents\visual studio 2017\Projects\Lecture02\Concatenate Data\bin\Debug\Concatenate Data.exe.config
+c:\Users\ADMIN\documents\visual studio 2017\Projects\Lecture02\Concatenate Data\bin\Debug\Concatenate Data.exe
+c:\Users\ADMIN\documents\visual studio 2017\Projects\Lecture02\Concatenate Data\bin\Debug\Concatenate Data.pdb
+c:\Users\ADMIN\documents\visual studio 2017\Projects\Lecture02\Concatenate Data\obj\Debug\Concatenate Data.csprojResolveAssemblyReference.cache
+c:\Users\ADMIN\documents\visual studio 2017\Projects\Lecture02\Concatenate Data\obj\Debug\Concatenate Data.exe
+c:\Users\ADMIN\documents\visual studio 2017\Projects\Lecture02\Concatenate Data\obj\Debug\Concatenate Data.pdb
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Concatenate Data\bin\Debug\Concatenate Data.exe.config
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Concatenate Data\bin\Debug\Concatenate Data.exe
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Concatenate Data\bin\Debug\Concatenate Data.pdb
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Concatenate Data\obj\Debug\Concatenate Data.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Concatenate Data\obj\Debug\Concatenate Data.exe
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Concatenate Data\obj\Debug\Concatenate Data.pdb

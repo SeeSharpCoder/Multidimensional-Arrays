@@ -1,0 +1,6 @@
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\03. Squares in Matrix-Мое\bin\Debug\_03.Squares_in_Matrix_Мое.exe.config
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\03. Squares in Matrix-Мое\bin\Debug\_03.Squares_in_Matrix_Мое.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\03. Squares in Matrix-Мое\bin\Debug\_03.Squares_in_Matrix_Мое.pdb
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\03. Squares in Matrix-Мое\obj\Debug\03. Squares in Matrix-Мое.csprojResolveAssemblyReference.cache
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\03. Squares in Matrix-Мое\obj\Debug\_03.Squares_in_Matrix_Мое.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\03. Squares in Matrix-Мое\obj\Debug\_03.Squares_in_Matrix_Мое.pdb

@@ -1,0 +1,5 @@
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\11.ThePartyReservationFilterM\bin\Debug\11.ThePartyReservationFilterM.exe.config
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\11.ThePartyReservationFilterM\bin\Debug\11.ThePartyReservationFilterM.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\11.ThePartyReservationFilterM\bin\Debug\11.ThePartyReservationFilterM.pdb
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\11.ThePartyReservationFilterM\obj\Debug\11.ThePartyReservationFilterM.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\11.ThePartyReservationFilterM\obj\Debug\11.ThePartyReservationFilterM.pdb

@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\LINQ_DICT_LIST\bin\Debug\LINQ_DICT_LIST.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\LINQ_DICT_LIST\bin\Debug\LINQ_DICT_LIST.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\LINQ_DICT_LIST\bin\Debug\LINQ_DICT_LIST.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\LINQ_DICT_LIST\obj\Debug\LINQ_DICT_LIST.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\LINQ_DICT_LIST\obj\Debug\LINQ_DICT_LIST.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\LINQ_DICT_LIST\obj\Debug\LINQ_DICT_LIST.pdb

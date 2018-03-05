@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170612_Lists\Lists\02. Append Lists\bin\Debug\_02.Append_Lists.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170612_Lists\Lists\02. Append Lists\bin\Debug\_02.Append_Lists.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170612_Lists\Lists\02. Append Lists\bin\Debug\_02.Append_Lists.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170612_Lists\Lists\02. Append Lists\obj\Debug\02. Append Lists.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-may2017-OLD\20170612_Lists\Lists\02. Append Lists\obj\Debug\_02.Append_Lists.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170612_Lists\Lists\02. Append Lists\obj\Debug\_02.Append_Lists.pdb

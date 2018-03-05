@@ -1,0 +1,5 @@
+D:\Textovi\C#\School\PF_sept2017\20171024_Strings and Text Processing - Ex\Strings and Text Processing - Ex\06. Sum big numbers\bin\Debug\_06.Sum_big_numbers.exe.config
+D:\Textovi\C#\School\PF_sept2017\20171024_Strings and Text Processing - Ex\Strings and Text Processing - Ex\06. Sum big numbers\bin\Debug\_06.Sum_big_numbers.exe
+D:\Textovi\C#\School\PF_sept2017\20171024_Strings and Text Processing - Ex\Strings and Text Processing - Ex\06. Sum big numbers\bin\Debug\_06.Sum_big_numbers.pdb
+D:\Textovi\C#\School\PF_sept2017\20171024_Strings and Text Processing - Ex\Strings and Text Processing - Ex\06. Sum big numbers\obj\Debug\_06.Sum_big_numbers.exe
+D:\Textovi\C#\School\PF_sept2017\20171024_Strings and Text Processing - Ex\Strings and Text Processing - Ex\06. Sum big numbers\obj\Debug\_06.Sum_big_numbers.pdb

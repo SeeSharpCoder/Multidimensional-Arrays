@@ -1,0 +1,5 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\TEST\bin\Debug\TEST.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\TEST\bin\Debug\TEST.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\TEST\bin\Debug\TEST.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\TEST\obj\Debug\TEST.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\TEST\obj\Debug\TEST.pdb

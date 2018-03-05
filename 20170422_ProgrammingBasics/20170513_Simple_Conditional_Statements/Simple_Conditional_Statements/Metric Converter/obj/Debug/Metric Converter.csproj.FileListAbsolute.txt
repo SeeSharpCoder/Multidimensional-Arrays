@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Metric Converter\obj\Debug\Metric Converter.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Metric Converter\bin\Debug\Metric Converter.exe.config
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Metric Converter\bin\Debug\Metric Converter.exe
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Metric Converter\bin\Debug\Metric Converter.pdb
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Metric Converter\obj\Debug\Metric Converter.exe
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Metric Converter\obj\Debug\Metric Converter.pdb

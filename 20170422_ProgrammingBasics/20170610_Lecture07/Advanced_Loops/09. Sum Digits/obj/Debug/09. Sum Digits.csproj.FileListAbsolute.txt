@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\09. Sum Digits\bin\Debug\_09.Sum_Digits.exe.config
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\09. Sum Digits\bin\Debug\_09.Sum_Digits.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\09. Sum Digits\bin\Debug\_09.Sum_Digits.pdb
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\09. Sum Digits\obj\Debug\09. Sum Digits.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\09. Sum Digits\obj\Debug\_09.Sum_Digits.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\09. Sum Digits\obj\Debug\_09.Sum_Digits.pdb

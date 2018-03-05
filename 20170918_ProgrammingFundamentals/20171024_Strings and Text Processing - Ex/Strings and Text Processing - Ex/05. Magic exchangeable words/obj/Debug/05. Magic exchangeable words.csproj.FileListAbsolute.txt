@@ -1,0 +1,5 @@
+D:\Textovi\C#\School\PF_sept2017\20171024_Strings and Text Processing - Ex\Strings and Text Processing - Ex\05. Magic exchangeable words\bin\Debug\_05.Magic_exchangeable_words.exe.config
+D:\Textovi\C#\School\PF_sept2017\20171024_Strings and Text Processing - Ex\Strings and Text Processing - Ex\05. Magic exchangeable words\bin\Debug\_05.Magic_exchangeable_words.exe
+D:\Textovi\C#\School\PF_sept2017\20171024_Strings and Text Processing - Ex\Strings and Text Processing - Ex\05. Magic exchangeable words\bin\Debug\_05.Magic_exchangeable_words.pdb
+D:\Textovi\C#\School\PF_sept2017\20171024_Strings and Text Processing - Ex\Strings and Text Processing - Ex\05. Magic exchangeable words\obj\Debug\_05.Magic_exchangeable_words.exe
+D:\Textovi\C#\School\PF_sept2017\20171024_Strings and Text Processing - Ex\Strings and Text Processing - Ex\05. Magic exchangeable words\obj\Debug\_05.Magic_exchangeable_words.pdb

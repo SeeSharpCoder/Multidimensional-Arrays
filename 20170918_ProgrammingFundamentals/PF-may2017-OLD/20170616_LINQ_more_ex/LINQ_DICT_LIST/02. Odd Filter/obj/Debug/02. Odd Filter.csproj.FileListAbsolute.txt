@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\02. Odd Filter\bin\Debug\_02.Odd_Filter.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\02. Odd Filter\bin\Debug\_02.Odd_Filter.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\02. Odd Filter\bin\Debug\_02.Odd_Filter.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\02. Odd Filter\obj\Debug\02. Odd Filter.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\02. Odd Filter\obj\Debug\_02.Odd_Filter.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170616_LINQ_more_ex\LINQ_DICT_LIST\02. Odd Filter\obj\Debug\_02.Odd_Filter.pdb

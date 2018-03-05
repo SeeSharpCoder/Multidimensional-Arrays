@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\USD to BGN\obj\Debug\USD to BGN.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\USD to BGN\bin\Debug\USD to BGN.exe.config
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\USD to BGN\bin\Debug\USD to BGN.exe
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\USD to BGN\bin\Debug\USD to BGN.pdb
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\USD to BGN\obj\Debug\USD to BGN.exe
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\USD to BGN\obj\Debug\USD to BGN.pdb

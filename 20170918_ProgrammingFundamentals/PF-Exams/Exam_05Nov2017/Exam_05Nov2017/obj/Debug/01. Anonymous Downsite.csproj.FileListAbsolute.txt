@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-Exams\Exam_05Nov2017\Exam_05Nov2017\bin\Debug\Exam_05Nov2017.exe.config
+D:\Textovi\C#\School\PF-Exams\Exam_05Nov2017\Exam_05Nov2017\bin\Debug\Exam_05Nov2017.exe
+D:\Textovi\C#\School\PF-Exams\Exam_05Nov2017\Exam_05Nov2017\bin\Debug\Exam_05Nov2017.pdb
+D:\Textovi\C#\School\PF-Exams\Exam_05Nov2017\Exam_05Nov2017\obj\Debug\Exam_05Nov2017.exe
+D:\Textovi\C#\School\PF-Exams\Exam_05Nov2017\Exam_05Nov2017\obj\Debug\Exam_05Nov2017.pdb
+D:\Textovi\C#\School\PF-Exams\Exam_05Nov2017\Exam_05Nov2017\obj\Debug\01. Anonymous Downsite.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\04. Draw a Filled Square\bin\Debug\_04.Draw_a_Filled_Square.exe.config
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\04. Draw a Filled Square\bin\Debug\_04.Draw_a_Filled_Square.exe
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\04. Draw a Filled Square\bin\Debug\_04.Draw_a_Filled_Square.pdb
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\04. Draw a Filled Square\obj\Debug\04. Draw a Filled Square.csprojResolveAssemblyReference.cache
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\04. Draw a Filled Square\obj\Debug\_04.Draw_a_Filled_Square.exe
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\04. Draw a Filled Square\obj\Debug\_04.Draw_a_Filled_Square.pdb

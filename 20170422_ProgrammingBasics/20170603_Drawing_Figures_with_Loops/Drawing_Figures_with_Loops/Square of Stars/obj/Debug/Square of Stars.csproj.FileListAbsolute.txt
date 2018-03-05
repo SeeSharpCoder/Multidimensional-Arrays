@@ -1,0 +1,5 @@
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Square of Stars\bin\Debug\Square of Stars.exe.config
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Square of Stars\bin\Debug\Square of Stars.exe
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Square of Stars\bin\Debug\Square of Stars.pdb
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Square of Stars\obj\Debug\Square of Stars.exe
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Square of Stars\obj\Debug\Square of Stars.pdb

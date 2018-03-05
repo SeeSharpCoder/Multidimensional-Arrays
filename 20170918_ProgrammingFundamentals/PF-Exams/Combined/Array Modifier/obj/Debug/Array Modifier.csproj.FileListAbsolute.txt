@@ -1,0 +1,5 @@
+D:\Textovi\C#\School\PF-Exams\Combined\Array Modifier\bin\Debug\Array Modifier.exe.config
+D:\Textovi\C#\School\PF-Exams\Combined\Array Modifier\bin\Debug\Array Modifier.exe
+D:\Textovi\C#\School\PF-Exams\Combined\Array Modifier\bin\Debug\Array Modifier.pdb
+D:\Textovi\C#\School\PF-Exams\Combined\Array Modifier\obj\Debug\Array Modifier.exe
+D:\Textovi\C#\School\PF-Exams\Combined\Array Modifier\obj\Debug\Array Modifier.pdb

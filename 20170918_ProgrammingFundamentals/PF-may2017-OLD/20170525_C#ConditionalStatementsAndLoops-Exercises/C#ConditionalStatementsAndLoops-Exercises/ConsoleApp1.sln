@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Choose a Drink", "ConsoleApp1\01. Choose a Drink.csproj", "{7496138E-D06D-45D2-8DC0-A5D9A7AAC54D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Choose a Drink 2.0", "02. Choose a Drink 2.0\02. Choose a Drink 2.0.csproj", "{104E7E16-CBA4-4B6A-9044-BB9EF118164C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7496138E-D06D-45D2-8DC0-A5D9A7AAC54D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7496138E-D06D-45D2-8DC0-A5D9A7AAC54D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7496138E-D06D-45D2-8DC0-A5D9A7AAC54D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7496138E-D06D-45D2-8DC0-A5D9A7AAC54D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{104E7E16-CBA4-4B6A-9044-BB9EF118164C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{104E7E16-CBA4-4B6A-9044-BB9EF118164C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{104E7E16-CBA4-4B6A-9044-BB9EF118164C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{104E7E16-CBA4-4B6A-9044-BB9EF118164C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

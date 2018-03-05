@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\02. Odd Occurrences_01\bin\Debug\_02.Odd_Occurrences_01.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\02. Odd Occurrences_01\bin\Debug\_02.Odd_Occurrences_01.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\02. Odd Occurrences_01\bin\Debug\_02.Odd_Occurrences_01.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\02. Odd Occurrences_01\obj\Debug\02. Odd Occurrences_01.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\02. Odd Occurrences_01\obj\Debug\_02.Odd_Occurrences_01.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\02. Odd Occurrences_01\obj\Debug\_02.Odd_Occurrences_01.pdb

@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-Exams\Combined\Hornet_Armada_01\bin\Debug\Hornet_Armada_01.exe.config
+D:\Textovi\C#\School\PF-Exams\Combined\Hornet_Armada_01\bin\Debug\Hornet_Armada_01.exe
+D:\Textovi\C#\School\PF-Exams\Combined\Hornet_Armada_01\bin\Debug\Hornet_Armada_01.pdb
+D:\Textovi\C#\School\PF-Exams\Combined\Hornet_Armada_01\obj\Debug\Hornet_Armada_01.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-Exams\Combined\Hornet_Armada_01\obj\Debug\Hornet_Armada_01.exe
+D:\Textovi\C#\School\PF-Exams\Combined\Hornet_Armada_01\obj\Debug\Hornet_Armada_01.pdb

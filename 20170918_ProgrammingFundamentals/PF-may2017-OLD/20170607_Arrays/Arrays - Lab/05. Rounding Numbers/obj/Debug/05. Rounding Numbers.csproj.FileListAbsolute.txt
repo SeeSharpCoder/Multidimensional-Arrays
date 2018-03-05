@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\05. Rounding Numbers\obj\Debug\05. Rounding Numbers.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\05. Rounding Numbers\obj\Debug\_05.Rounding_Numbers.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\05. Rounding Numbers\obj\Debug\_05.Rounding_Numbers.pdb

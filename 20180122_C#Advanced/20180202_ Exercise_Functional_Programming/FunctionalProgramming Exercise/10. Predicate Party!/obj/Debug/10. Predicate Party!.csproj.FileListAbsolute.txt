@@ -1,0 +1,5 @@
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\10. Predicate Party!\bin\Debug\_10.Predicate_Party_.exe.config
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\10. Predicate Party!\bin\Debug\_10.Predicate_Party_.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\10. Predicate Party!\bin\Debug\_10.Predicate_Party_.pdb
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\10. Predicate Party!\obj\Debug\_10.Predicate_Party_.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\10. Predicate Party!\obj\Debug\_10.Predicate_Party_.pdb

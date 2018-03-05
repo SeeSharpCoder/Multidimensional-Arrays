@@ -1,0 +1,5 @@
+D:\Textovi\C#\School\PF-Exams\Combined\Population Aggregation\bin\Debug\Population Aggregation.exe.config
+D:\Textovi\C#\School\PF-Exams\Combined\Population Aggregation\bin\Debug\Population Aggregation.exe
+D:\Textovi\C#\School\PF-Exams\Combined\Population Aggregation\bin\Debug\Population Aggregation.pdb
+D:\Textovi\C#\School\PF-Exams\Combined\Population Aggregation\obj\Debug\Population Aggregation.exe
+D:\Textovi\C#\School\PF-Exams\Combined\Population Aggregation\obj\Debug\Population Aggregation.pdb

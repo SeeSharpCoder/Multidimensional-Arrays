@@ -1,0 +1,5 @@
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\02. Knights of Honor\bin\Debug\_02.Knights_of_Honor.exe.config
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\02. Knights of Honor\bin\Debug\_02.Knights_of_Honor.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\02. Knights of Honor\bin\Debug\_02.Knights_of_Honor.pdb
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\02. Knights of Honor\obj\Debug\_02.Knights_of_Honor.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\02. Knights of Honor\obj\Debug\_02.Knights_of_Honor.pdb

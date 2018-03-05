@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Excellent or Not\bin\Debug\Excellent or Not.exe.config
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Excellent or Not\bin\Debug\Excellent or Not.exe
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Excellent or Not\bin\Debug\Excellent or Not.pdb
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Excellent or Not\obj\Debug\Excellent or Not.exe
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Excellent or Not\obj\Debug\Excellent or Not.pdb
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Excellent or Not\obj\Debug\Excellent or Not.csprojResolveAssemblyReference.cache

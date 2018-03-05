@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF_sept2017\20171013_LINQ_ex\LINQ_ex\03. A Miner Task\obj\Debug\03. A Miner Task.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF_sept2017\20171013_LINQ_ex\LINQ_ex\03. A Miner Task\bin\Debug\_03.A_Miner_Task.exe.config
+D:\Textovi\C#\School\PF_sept2017\20171013_LINQ_ex\LINQ_ex\03. A Miner Task\bin\Debug\_03.A_Miner_Task.exe
+D:\Textovi\C#\School\PF_sept2017\20171013_LINQ_ex\LINQ_ex\03. A Miner Task\bin\Debug\_03.A_Miner_Task.pdb
+D:\Textovi\C#\School\PF_sept2017\20171013_LINQ_ex\LINQ_ex\03. A Miner Task\obj\Debug\_03.A_Miner_Task.exe
+D:\Textovi\C#\School\PF_sept2017\20171013_LINQ_ex\LINQ_ex\03. A Miner Task\obj\Debug\_03.A_Miner_Task.pdb

@@ -1,0 +1,6 @@
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\07. Math Power\obj\Debug\07. Math Power.csprojResolveAssemblyReference.cache
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\07. Math Power\bin\Debug\_07.Math_Power.exe.config
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\07. Math Power\bin\Debug\_07.Math_Power.exe
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\07. Math Power\bin\Debug\_07.Math_Power.pdb
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\07. Math Power\obj\Debug\_07.Math_Power.exe
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\07. Math Power\obj\Debug\_07.Math_Power.pdb

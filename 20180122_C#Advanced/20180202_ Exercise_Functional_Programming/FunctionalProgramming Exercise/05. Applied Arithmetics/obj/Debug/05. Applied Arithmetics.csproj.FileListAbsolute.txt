@@ -1,0 +1,5 @@
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\05. Applied Arithmetics\bin\Debug\_05.Applied_Arithmetics.exe.config
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\05. Applied Arithmetics\bin\Debug\_05.Applied_Arithmetics.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\05. Applied Arithmetics\bin\Debug\_05.Applied_Arithmetics.pdb
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\05. Applied Arithmetics\obj\Debug\_05.Applied_Arithmetics.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\05. Applied Arithmetics\obj\Debug\_05.Applied_Arithmetics.pdb

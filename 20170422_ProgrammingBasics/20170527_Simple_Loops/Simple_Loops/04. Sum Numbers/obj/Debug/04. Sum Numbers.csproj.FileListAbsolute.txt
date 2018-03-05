@@ -1,0 +1,5 @@
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.exe.config
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.exe
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.pdb
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\04. Sum Numbers\obj\Debug\_04.Sum_Numbers.exe
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\04. Sum Numbers\obj\Debug\_04.Sum_Numbers.pdb

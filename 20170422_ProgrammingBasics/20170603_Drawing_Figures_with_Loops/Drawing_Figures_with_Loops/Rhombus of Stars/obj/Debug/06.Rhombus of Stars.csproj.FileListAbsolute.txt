@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Rhombus of Stars\bin\Debug\Rhombus of Stars.exe.config
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Rhombus of Stars\bin\Debug\Rhombus of Stars.exe
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Rhombus of Stars\bin\Debug\Rhombus of Stars.pdb
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Rhombus of Stars\obj\Debug\06.Rhombus of Stars.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Rhombus of Stars\obj\Debug\Rhombus of Stars.exe
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\Rhombus of Stars\obj\Debug\Rhombus of Stars.pdb

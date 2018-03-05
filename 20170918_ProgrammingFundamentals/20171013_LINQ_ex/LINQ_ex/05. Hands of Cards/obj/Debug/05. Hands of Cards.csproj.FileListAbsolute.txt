@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF_sept2017\20171013_LINQ_ex\LINQ_ex\05. Hands of Cards\bin\Debug\_05.Hands_of_Cards.exe.config
+D:\Textovi\C#\School\PF_sept2017\20171013_LINQ_ex\LINQ_ex\05. Hands of Cards\bin\Debug\_05.Hands_of_Cards.exe
+D:\Textovi\C#\School\PF_sept2017\20171013_LINQ_ex\LINQ_ex\05. Hands of Cards\bin\Debug\_05.Hands_of_Cards.pdb
+D:\Textovi\C#\School\PF_sept2017\20171013_LINQ_ex\LINQ_ex\05. Hands of Cards\obj\Debug\05. Hands of Cards.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF_sept2017\20171013_LINQ_ex\LINQ_ex\05. Hands of Cards\obj\Debug\_05.Hands_of_Cards.exe
+D:\Textovi\C#\School\PF_sept2017\20171013_LINQ_ex\LINQ_ex\05. Hands of Cards\obj\Debug\_05.Hands_of_Cards.pdb

@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\14. Number Table\bin\Debug\_14.Number_Table.exe.config
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\14. Number Table\bin\Debug\_14.Number_Table.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\14. Number Table\bin\Debug\_14.Number_Table.pdb
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\14. Number Table\obj\Debug\14. Number Table.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\14. Number Table\obj\Debug\_14.Number_Table.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\14. Number Table\obj\Debug\_14.Number_Table.pdb

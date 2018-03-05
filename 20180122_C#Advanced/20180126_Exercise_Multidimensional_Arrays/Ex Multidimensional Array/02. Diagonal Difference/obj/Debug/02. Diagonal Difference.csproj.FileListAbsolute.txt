@@ -1,0 +1,6 @@
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\02. Diagonal Difference\bin\Debug\_02.Diagonal_Difference.exe.config
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\02. Diagonal Difference\bin\Debug\_02.Diagonal_Difference.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\02. Diagonal Difference\bin\Debug\_02.Diagonal_Difference.pdb
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\02. Diagonal Difference\obj\Debug\_02.Diagonal_Difference.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\02. Diagonal Difference\obj\Debug\_02.Diagonal_Difference.pdb
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\02. Diagonal Difference\obj\Debug\02. Diagonal Difference.csprojResolveAssemblyReference.cache

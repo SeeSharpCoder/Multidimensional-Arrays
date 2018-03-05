@@ -1,0 +1,5 @@
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\07. Predicate For Names\bin\Debug\_07.Predicate_For_Names.exe.config
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\07. Predicate For Names\bin\Debug\_07.Predicate_For_Names.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\07. Predicate For Names\bin\Debug\_07.Predicate_For_Names.pdb
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\07. Predicate For Names\obj\Debug\_07.Predicate_For_Names.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\07. Predicate For Names\obj\Debug\_07.Predicate_For_Names.pdb

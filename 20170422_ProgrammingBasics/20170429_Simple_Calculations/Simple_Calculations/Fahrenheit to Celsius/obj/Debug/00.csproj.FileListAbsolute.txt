@@ -1,0 +1,5 @@
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\00\bin\Debug\00.exe.config
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\00\bin\Debug\00.exe
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\00\bin\Debug\00.pdb
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\00\obj\Debug\00.exe
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\00\obj\Debug\00.pdb

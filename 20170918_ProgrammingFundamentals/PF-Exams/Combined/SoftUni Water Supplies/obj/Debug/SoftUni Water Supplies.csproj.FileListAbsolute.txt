@@ -1,0 +1,5 @@
+D:\Textovi\C#\School\PF-Exams\Combined\SoftUni Water Supplies\bin\Debug\SoftUni Water Supplies.exe.config
+D:\Textovi\C#\School\PF-Exams\Combined\SoftUni Water Supplies\bin\Debug\SoftUni Water Supplies.exe
+D:\Textovi\C#\School\PF-Exams\Combined\SoftUni Water Supplies\bin\Debug\SoftUni Water Supplies.pdb
+D:\Textovi\C#\School\PF-Exams\Combined\SoftUni Water Supplies\obj\Debug\SoftUni Water Supplies.exe
+D:\Textovi\C#\School\PF-Exams\Combined\SoftUni Water Supplies\obj\Debug\SoftUni Water Supplies.pdb

@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Number 0_9 to Text\bin\Debug\Number 0_9 to Text.exe.config
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Number 0_9 to Text\bin\Debug\Number 0_9 to Text.exe
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Number 0_9 to Text\bin\Debug\Number 0_9 to Text.pdb
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Number 0_9 to Text\obj\Debug\Number 0_9 to Text.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Number 0_9 to Text\obj\Debug\Number 0_9 to Text.exe
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Number 0_9 to Text\obj\Debug\Number 0_9 to Text.pdb

@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\11. Enter Even Number\obj\Debug\11. Enter Even Number.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\11. Enter Even Number\bin\Debug\_11.Enter_Even_Number.exe.config
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\11. Enter Even Number\bin\Debug\_11.Enter_Even_Number.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\11. Enter Even Number\bin\Debug\_11.Enter_Even_Number.pdb
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\11. Enter Even Number\obj\Debug\_11.Enter_Even_Number.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\11. Enter Even Number\obj\Debug\_11.Enter_Even_Number.pdb

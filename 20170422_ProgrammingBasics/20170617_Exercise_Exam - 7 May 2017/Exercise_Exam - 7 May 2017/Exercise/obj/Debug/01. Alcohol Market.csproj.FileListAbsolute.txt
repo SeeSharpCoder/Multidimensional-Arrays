@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\20170617_Exercise\Exercise\Exercise\bin\Debug\Exercise.exe.config
+D:\Textovi\CSharpProjects\School\20170617_Exercise\Exercise\Exercise\bin\Debug\Exercise.exe
+D:\Textovi\CSharpProjects\School\20170617_Exercise\Exercise\Exercise\bin\Debug\Exercise.pdb
+D:\Textovi\CSharpProjects\School\20170617_Exercise\Exercise\Exercise\obj\Debug\01. Alcohol Market.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\20170617_Exercise\Exercise\Exercise\obj\Debug\Exercise.exe
+D:\Textovi\CSharpProjects\School\20170617_Exercise\Exercise\Exercise\obj\Debug\Exercise.pdb

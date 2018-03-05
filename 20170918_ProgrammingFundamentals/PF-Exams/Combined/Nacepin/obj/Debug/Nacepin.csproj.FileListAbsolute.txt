@@ -1,0 +1,5 @@
+D:\Textovi\C#\School\PF-Exams\Combined\Nacepin\bin\Debug\Nacepin.exe.config
+D:\Textovi\C#\School\PF-Exams\Combined\Nacepin\bin\Debug\Nacepin.exe
+D:\Textovi\C#\School\PF-Exams\Combined\Nacepin\bin\Debug\Nacepin.pdb
+D:\Textovi\C#\School\PF-Exams\Combined\Nacepin\obj\Debug\Nacepin.exe
+D:\Textovi\C#\School\PF-Exams\Combined\Nacepin\obj\Debug\Nacepin.pdb

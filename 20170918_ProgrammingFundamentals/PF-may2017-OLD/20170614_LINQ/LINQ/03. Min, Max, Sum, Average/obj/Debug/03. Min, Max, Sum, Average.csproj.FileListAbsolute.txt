@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\03. Min, Max, Sum, Average\obj\Debug\03. Min, Max, Sum, Average.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\03. Min, Max, Sum, Average\obj\Debug\_03.Min__Max__Sum__Average.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170614_LINQ\LINQ\03. Min, Max, Sum, Average\obj\Debug\_03.Min__Max__Sum__Average.pdb

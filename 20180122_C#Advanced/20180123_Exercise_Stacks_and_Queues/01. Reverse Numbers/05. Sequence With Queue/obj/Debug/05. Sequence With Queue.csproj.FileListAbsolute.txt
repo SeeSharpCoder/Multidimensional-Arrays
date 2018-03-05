@@ -1,0 +1,6 @@
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\05. Sequence With Queue\obj\Debug\05. Sequence With Queue.csprojResolveAssemblyReference.cache
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\05. Sequence With Queue\bin\Debug\_05.Sequence_With_Queue.exe.config
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\05. Sequence With Queue\bin\Debug\_05.Sequence_With_Queue.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\05. Sequence With Queue\bin\Debug\_05.Sequence_With_Queue.pdb
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\05. Sequence With Queue\obj\Debug\_05.Sequence_With_Queue.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\05. Sequence With Queue\obj\Debug\_05.Sequence_With_Queue.pdb

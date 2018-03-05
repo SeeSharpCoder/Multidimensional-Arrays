@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-Exams\Combined\Poke Mon\bin\Debug\Poke Mon.exe.config
+D:\Textovi\C#\School\PF-Exams\Combined\Poke Mon\bin\Debug\Poke Mon.exe
+D:\Textovi\C#\School\PF-Exams\Combined\Poke Mon\bin\Debug\Poke Mon.pdb
+D:\Textovi\C#\School\PF-Exams\Combined\Poke Mon\obj\Debug\Poke Mon.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-Exams\Combined\Poke Mon\obj\Debug\Poke Mon.exe
+D:\Textovi\C#\School\PF-Exams\Combined\Poke Mon\obj\Debug\Poke Mon.pdb

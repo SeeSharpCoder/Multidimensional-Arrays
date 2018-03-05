@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\08. Odd Even Sum\bin\Debug\_08.Odd_Even_Sum.exe.config
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\08. Odd Even Sum\bin\Debug\_08.Odd_Even_Sum.exe
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\08. Odd Even Sum\bin\Debug\_08.Odd_Even_Sum.pdb
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\08. Odd Even Sum\obj\Debug\08. Odd Even Sum.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\08. Odd Even Sum\obj\Debug\_08.Odd_Even_Sum.exe
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\08. Odd Even Sum\obj\Debug\_08.Odd_Even_Sum.pdb

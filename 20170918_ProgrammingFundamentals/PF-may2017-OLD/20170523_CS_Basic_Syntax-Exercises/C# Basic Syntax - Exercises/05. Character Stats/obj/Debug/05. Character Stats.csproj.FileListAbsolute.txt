@@ -1,0 +1,5 @@
+D:\Textovi\CSharpProjects\School\Programming Fundamentals - may 2017-OLD\20170523_CS_Basic_Syntax-Exercises\C# Basic Syntax - Exercises\05. Character Stats\bin\Debug\_05.Character_Stats.exe.config
+D:\Textovi\CSharpProjects\School\Programming Fundamentals - may 2017-OLD\20170523_CS_Basic_Syntax-Exercises\C# Basic Syntax - Exercises\05. Character Stats\bin\Debug\_05.Character_Stats.exe
+D:\Textovi\CSharpProjects\School\Programming Fundamentals - may 2017-OLD\20170523_CS_Basic_Syntax-Exercises\C# Basic Syntax - Exercises\05. Character Stats\bin\Debug\_05.Character_Stats.pdb
+D:\Textovi\CSharpProjects\School\Programming Fundamentals - may 2017-OLD\20170523_CS_Basic_Syntax-Exercises\C# Basic Syntax - Exercises\05. Character Stats\obj\Debug\_05.Character_Stats.exe
+D:\Textovi\CSharpProjects\School\Programming Fundamentals - may 2017-OLD\20170523_CS_Basic_Syntax-Exercises\C# Basic Syntax - Exercises\05. Character Stats\obj\Debug\_05.Character_Stats.pdb

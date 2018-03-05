@@ -1,0 +1,5 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170628_Regular Expressions (RegEx)\RegEx\05. Key Replacer\bin\Debug\_05.Key_Replacer.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170628_Regular Expressions (RegEx)\RegEx\05. Key Replacer\bin\Debug\_05.Key_Replacer.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170628_Regular Expressions (RegEx)\RegEx\05. Key Replacer\bin\Debug\_05.Key_Replacer.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170628_Regular Expressions (RegEx)\RegEx\05. Key Replacer\obj\Debug\_05.Key_Replacer.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170628_Regular Expressions (RegEx)\RegEx\05. Key Replacer\obj\Debug\_05.Key_Replacer.pdb

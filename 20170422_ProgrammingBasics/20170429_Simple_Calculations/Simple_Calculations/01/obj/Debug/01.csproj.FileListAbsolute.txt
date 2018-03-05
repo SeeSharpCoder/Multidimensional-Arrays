@@ -1,0 +1,12 @@
+c:\Users\ADMIN\documents\visual studio 2017\Projects\Lecture02\01\bin\Debug\01.exe.config
+c:\Users\ADMIN\documents\visual studio 2017\Projects\Lecture02\01\bin\Debug\01.exe
+c:\Users\ADMIN\documents\visual studio 2017\Projects\Lecture02\01\bin\Debug\01.pdb
+c:\Users\ADMIN\documents\visual studio 2017\Projects\Lecture02\01\obj\Debug\01.csprojResolveAssemblyReference.cache
+c:\Users\ADMIN\documents\visual studio 2017\Projects\Lecture02\01\obj\Debug\01.exe
+c:\Users\ADMIN\documents\visual studio 2017\Projects\Lecture02\01\obj\Debug\01.pdb
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\01\obj\Debug\01.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\01\obj\Debug\01.exe
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\01\obj\Debug\01.pdb
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\01\bin\Debug\01.exe.config
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\01\bin\Debug\01.exe
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\01\bin\Debug\01.pdb

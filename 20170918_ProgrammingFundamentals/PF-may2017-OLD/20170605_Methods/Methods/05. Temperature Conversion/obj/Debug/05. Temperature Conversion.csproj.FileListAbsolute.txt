@@ -1,0 +1,6 @@
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\05. Temperature Conversion\bin\Debug\_05.Temperature_Conversion.exe.config
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\05. Temperature Conversion\bin\Debug\_05.Temperature_Conversion.exe
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\05. Temperature Conversion\bin\Debug\_05.Temperature_Conversion.pdb
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\05. Temperature Conversion\obj\Debug\05. Temperature Conversion.csprojResolveAssemblyReference.cache
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\05. Temperature Conversion\obj\Debug\_05.Temperature_Conversion.exe
+D:\Textovi\CodinG\School\20170918_ProgrammingFundamentals\PF-may2017-OLD\20170605_Methods\Methods\05. Temperature Conversion\obj\Debug\_05.Temperature_Conversion.pdb

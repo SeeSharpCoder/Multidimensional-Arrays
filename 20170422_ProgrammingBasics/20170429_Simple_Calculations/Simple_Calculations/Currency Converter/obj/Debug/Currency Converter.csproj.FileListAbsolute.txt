@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Currency Converter\bin\Debug\Currency Converter.exe.config
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Currency Converter\bin\Debug\Currency Converter.exe
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Currency Converter\bin\Debug\Currency Converter.pdb
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Currency Converter\obj\Debug\Currency Converter.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Currency Converter\obj\Debug\Currency Converter.exe
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Currency Converter\obj\Debug\Currency Converter.pdb

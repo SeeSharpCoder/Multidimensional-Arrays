@@ -1,0 +1,5 @@
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Radians to Degrees\bin\Debug\Radians to Degrees.exe.config
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Radians to Degrees\bin\Debug\Radians to Degrees.exe
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Radians to Degrees\bin\Debug\Radians to Degrees.pdb
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Radians to Degrees\obj\Debug\Radians to Degrees.exe
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Radians to Degrees\obj\Debug\Radians to Degrees.pdb

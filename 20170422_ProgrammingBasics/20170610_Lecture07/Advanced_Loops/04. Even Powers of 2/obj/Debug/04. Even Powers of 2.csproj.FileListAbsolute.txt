@@ -1,0 +1,5 @@
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\04. Even Powers of 2\bin\Debug\_04.Even_Powers_of_2.exe.config
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\04. Even Powers of 2\bin\Debug\_04.Even_Powers_of_2.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\04. Even Powers of 2\bin\Debug\_04.Even_Powers_of_2.pdb
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\04. Even Powers of 2\obj\Debug\_04.Even_Powers_of_2.exe
+D:\Textovi\CSharpProjects\School\20170610_Lecture07\Advanced Loops\04. Even Powers of 2\obj\Debug\_04.Even_Powers_of_2.pdb

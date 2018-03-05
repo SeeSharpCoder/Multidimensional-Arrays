@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\test\bin\Debug\test.exe.config
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\test\bin\Debug\test.exe
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\test\bin\Debug\test.pdb
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\test\obj\Debug\test.exe
+D:\Textovi\CSharpProjects\School\20170603_Lecture06\Drawing Figures with Loops\test\obj\Debug\test.pdb

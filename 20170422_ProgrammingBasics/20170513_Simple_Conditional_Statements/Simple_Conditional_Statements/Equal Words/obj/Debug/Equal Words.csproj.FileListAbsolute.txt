@@ -1,0 +1,5 @@
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Equal Words\bin\Debug\Equal Words.exe.config
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Equal Words\bin\Debug\Equal Words.exe
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Equal Words\bin\Debug\Equal Words.pdb
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Equal Words\obj\Debug\Equal Words.exe
+D:\Textovi\CSharpProjects\School\Lecture03\Lecture03\Simple Conditional Statements\Equal Words\obj\Debug\Equal Words.pdb

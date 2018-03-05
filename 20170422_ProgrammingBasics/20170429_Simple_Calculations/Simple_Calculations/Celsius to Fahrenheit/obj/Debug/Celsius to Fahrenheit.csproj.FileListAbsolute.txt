@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.exe.config
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.exe
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.pdb
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.exe
+D:\Textovi\CSharpProjects\School\Lecture02\Lecture02\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.pdb

@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-Exams\Exam_05Nov2017\03. Anonymous Vox\bin\Debug\_03.Anonymous_Vox.exe.config
+D:\Textovi\C#\School\PF-Exams\Exam_05Nov2017\03. Anonymous Vox\bin\Debug\_03.Anonymous_Vox.exe
+D:\Textovi\C#\School\PF-Exams\Exam_05Nov2017\03. Anonymous Vox\bin\Debug\_03.Anonymous_Vox.pdb
+D:\Textovi\C#\School\PF-Exams\Exam_05Nov2017\03. Anonymous Vox\obj\Debug\03. Anonymous Vox.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-Exams\Exam_05Nov2017\03. Anonymous Vox\obj\Debug\_03.Anonymous_Vox.exe
+D:\Textovi\C#\School\PF-Exams\Exam_05Nov2017\03. Anonymous Vox\obj\Debug\_03.Anonymous_Vox.pdb

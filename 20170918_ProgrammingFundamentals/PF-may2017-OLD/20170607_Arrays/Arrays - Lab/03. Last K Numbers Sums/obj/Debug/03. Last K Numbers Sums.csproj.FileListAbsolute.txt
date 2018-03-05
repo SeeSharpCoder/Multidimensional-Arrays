@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.exe.config
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.pdb
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\03. Last K Numbers Sums\obj\Debug\03. Last K Numbers Sums.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\03. Last K Numbers Sums\obj\Debug\_03.Last_K_Numbers_Sums.exe
+D:\Textovi\C#\School\PF-may2017-OLD\20170607_Arrays\Arrays - Lab\03. Last K Numbers Sums\obj\Debug\_03.Last_K_Numbers_Sums.pdb

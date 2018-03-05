@@ -1,0 +1,5 @@
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\08. Recursive Fibonacci\bin\Debug\_08.Recursive_Fibonacci.exe.config
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\08. Recursive Fibonacci\bin\Debug\_08.Recursive_Fibonacci.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\08. Recursive Fibonacci\bin\Debug\_08.Recursive_Fibonacci.pdb
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\08. Recursive Fibonacci\obj\Debug\_08.Recursive_Fibonacci.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\08. Recursive Fibonacci\obj\Debug\_08.Recursive_Fibonacci.pdb

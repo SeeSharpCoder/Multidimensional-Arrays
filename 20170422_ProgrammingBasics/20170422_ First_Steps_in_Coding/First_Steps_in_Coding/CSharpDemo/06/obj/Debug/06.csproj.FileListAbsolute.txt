@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Desktop\CSharpProjects\CSharpDemo\06\bin\Debug\06.exe.config
+C:\Users\ADMIN\Desktop\CSharpProjects\CSharpDemo\06\bin\Debug\06.exe
+C:\Users\ADMIN\Desktop\CSharpProjects\CSharpDemo\06\bin\Debug\06.pdb
+C:\Users\ADMIN\Desktop\CSharpProjects\CSharpDemo\06\obj\Debug\06.exe
+C:\Users\ADMIN\Desktop\CSharpProjects\CSharpDemo\06\obj\Debug\06.pdb
+D:\Textovi\CSharpProjects\School\Lecture01\Lecture01\CSharpDemo\06\obj\Debug\06.exe
+D:\Textovi\CSharpProjects\School\Lecture01\Lecture01\CSharpDemo\06\obj\Debug\06.pdb
+D:\Textovi\CSharpProjects\School\Lecture01\Lecture01\CSharpDemo\06\bin\Debug\06.exe.config
+D:\Textovi\CSharpProjects\School\Lecture01\Lecture01\CSharpDemo\06\bin\Debug\06.exe
+D:\Textovi\CSharpProjects\School\Lecture01\Lecture01\CSharpDemo\06\bin\Debug\06.pdb

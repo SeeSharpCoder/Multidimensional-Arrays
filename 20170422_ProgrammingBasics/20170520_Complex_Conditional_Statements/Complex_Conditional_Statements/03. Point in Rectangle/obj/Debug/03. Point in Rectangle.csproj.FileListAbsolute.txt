@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\20170520_Lecture04\Complex Conditional Statements\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.exe.config
+D:\Textovi\CSharpProjects\School\20170520_Lecture04\Complex Conditional Statements\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.exe
+D:\Textovi\CSharpProjects\School\20170520_Lecture04\Complex Conditional Statements\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.pdb
+D:\Textovi\CSharpProjects\School\20170520_Lecture04\Complex Conditional Statements\03. Point in Rectangle\obj\Debug\03. Point in Rectangle.csprojResolveAssemblyReference.cache
+D:\Textovi\CSharpProjects\School\20170520_Lecture04\Complex Conditional Statements\03. Point in Rectangle\obj\Debug\_03.Point_in_Rectangle.exe
+D:\Textovi\CSharpProjects\School\20170520_Lecture04\Complex Conditional Statements\03. Point in Rectangle\obj\Debug\_03.Point_in_Rectangle.pdb

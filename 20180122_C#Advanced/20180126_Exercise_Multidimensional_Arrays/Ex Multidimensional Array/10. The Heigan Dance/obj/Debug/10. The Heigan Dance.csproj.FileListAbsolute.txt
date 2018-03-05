@@ -1,0 +1,5 @@
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\10. The Heigan Dance\bin\Debug\_10.The_Heigan_Dance.exe.config
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\10. The Heigan Dance\bin\Debug\_10.The_Heigan_Dance.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\10. The Heigan Dance\bin\Debug\_10.The_Heigan_Dance.pdb
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\10. The Heigan Dance\obj\Debug\_10.The_Heigan_Dance.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180126_Exercise_Multidimensional_Arrays\Ex Multidimensional Array\10. The Heigan Dance\obj\Debug\_10.The_Heigan_Dance.pdb

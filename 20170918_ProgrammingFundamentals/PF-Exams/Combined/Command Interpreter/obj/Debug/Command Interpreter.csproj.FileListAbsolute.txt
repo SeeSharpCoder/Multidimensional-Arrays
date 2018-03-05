@@ -1,0 +1,6 @@
+D:\Textovi\C#\School\PF-Exams\Combined\Command Interpreter\bin\Debug\Command Interpreter.exe.config
+D:\Textovi\C#\School\PF-Exams\Combined\Command Interpreter\bin\Debug\Command Interpreter.exe
+D:\Textovi\C#\School\PF-Exams\Combined\Command Interpreter\bin\Debug\Command Interpreter.pdb
+D:\Textovi\C#\School\PF-Exams\Combined\Command Interpreter\obj\Debug\Command Interpreter.csprojResolveAssemblyReference.cache
+D:\Textovi\C#\School\PF-Exams\Combined\Command Interpreter\obj\Debug\Command Interpreter.exe
+D:\Textovi\C#\School\PF-Exams\Combined\Command Interpreter\obj\Debug\Command Interpreter.pdb

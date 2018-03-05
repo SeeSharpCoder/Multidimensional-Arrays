@@ -1,0 +1,6 @@
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\05. Max Number\bin\Debug\_05.Max_Number.exe.config
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\05. Max Number\bin\Debug\_05.Max_Number.exe
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\05. Max Number\bin\Debug\_05.Max_Number.pdb
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\05. Max Number\obj\Debug\_05.Max_Number.exe
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\05. Max Number\obj\Debug\_05.Max_Number.pdb
+D:\Textovi\CSharpProjects\School\20170527_Lecture05\Simple Loops\05. Max Number\obj\Debug\05. Max Number.csprojResolveAssemblyReference.cache

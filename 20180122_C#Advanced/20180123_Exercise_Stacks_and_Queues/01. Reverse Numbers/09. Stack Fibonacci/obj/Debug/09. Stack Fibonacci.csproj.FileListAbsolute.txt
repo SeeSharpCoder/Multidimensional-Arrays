@@ -1,0 +1,5 @@
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\09. Stack Fibonacci\bin\Debug\_09.Stack_Fibonacci.exe.config
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\09. Stack Fibonacci\bin\Debug\_09.Stack_Fibonacci.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\09. Stack Fibonacci\bin\Debug\_09.Stack_Fibonacci.pdb
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\09. Stack Fibonacci\obj\Debug\_09.Stack_Fibonacci.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180123_Exercise_Stacks_and_Queues\01. Reverse Numbers\09. Stack Fibonacci\obj\Debug\_09.Stack_Fibonacci.pdb

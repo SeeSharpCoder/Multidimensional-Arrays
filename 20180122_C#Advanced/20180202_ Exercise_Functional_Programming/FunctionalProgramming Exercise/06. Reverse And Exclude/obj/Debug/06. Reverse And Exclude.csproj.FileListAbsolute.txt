@@ -1,0 +1,5 @@
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\06. Reverse And Exclude\bin\Debug\_06.Reverse_And_Exclude.exe.config
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\06. Reverse And Exclude\bin\Debug\_06.Reverse_And_Exclude.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\06. Reverse And Exclude\bin\Debug\_06.Reverse_And_Exclude.pdb
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\06. Reverse And Exclude\obj\Debug\_06.Reverse_And_Exclude.exe
+D:\Textovi\CodinG\School\20180122_C#Advanced\20180202_ Exercise_Functional_Programming\FunctionalProgramming Exercise\06. Reverse And Exclude\obj\Debug\_06.Reverse_And_Exclude.pdb
