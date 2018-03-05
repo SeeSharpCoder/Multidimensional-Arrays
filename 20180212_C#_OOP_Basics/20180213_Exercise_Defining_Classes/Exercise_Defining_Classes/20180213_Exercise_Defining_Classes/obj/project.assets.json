@@ -7046,11 +7046,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Textovi\\CodinG\\Software-University-SoftUni\\20180212_C#_OOP_Basics\\20180213_Exercise_Defining_Classes\\Exercise_Defining_Classes\\20180213_Exercise_Defining_Classes\\20180213_Exercise_Defining_Classes.csproj",
+      "projectUniqueName": "D:\\CodinG\\SoftUni\\20180212_C#_OOP_Basics\\20180213_Exercise_Defining_Classes\\Exercise_Defining_Classes\\20180213_Exercise_Defining_Classes\\20180213_Exercise_Defining_Classes.csproj",
       "projectName": "20180213_Exercise_Defining_Classes",
-      "projectPath": "D:\\Textovi\\CodinG\\Software-University-SoftUni\\20180212_C#_OOP_Basics\\20180213_Exercise_Defining_Classes\\Exercise_Defining_Classes\\20180213_Exercise_Defining_Classes\\20180213_Exercise_Defining_Classes.csproj",
+      "projectPath": "D:\\CodinG\\SoftUni\\20180212_C#_OOP_Basics\\20180213_Exercise_Defining_Classes\\Exercise_Defining_Classes\\20180213_Exercise_Defining_Classes\\20180213_Exercise_Defining_Classes.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\Textovi\\CodinG\\Software-University-SoftUni\\20180212_C#_OOP_Basics\\20180213_Exercise_Defining_Classes\\Exercise_Defining_Classes\\20180213_Exercise_Defining_Classes\\obj\\",
+      "outputPath": "D:\\CodinG\\SoftUni\\20180212_C#_OOP_Basics\\20180213_Exercise_Defining_Classes\\Exercise_Defining_Classes\\20180213_Exercise_Defining_Classes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
